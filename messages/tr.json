@@ -1,0 +1,1203 @@
+{
+  "metadata": {
+    "title": "Light Tours - Yat Kiralama, Turlar ve Türkiye Seyahat Hizmetleri",
+    "description": "Fethiye, Türkiye'de premium yat kiralama, rehberli turlar, araç kiralama ve transfer hizmetleri. 1988'den beri Türk Rivierası deneyimi."
+  },
+  "nav": {
+    "home": "Ana Sayfa",
+    "yachtCharter": "Yat Kiralama",
+    "cabinCharter": "Kabin Charter",
+    "tours": "Turlar",
+    "carRental": "Araç Kiralama",
+    "transfer": "Transfer",
+    "contact": "İletişim",
+    "about": "Hakkımızda",
+    "faq": "SSS",
+    "blog": "Blog",
+    "getQuote": "Teklif Al"
+  },
+  "hero": {
+    "badge": "1988'den beri gezginlere hizmet veriyoruz",
+    "title": "Büyüleyici",
+    "titleHighlight": "Türk Rivierası'nı",
+    "subtitle": "Lüks yat kiralama, unutulmaz turlar ve kesintisiz seyahat hizmetleri. {years} yıllık deneyimimizle Fethiye ve ötesinin güzelliğini keşfedin.",
+    "exploreServices": "Hizmetleri Keşfet",
+    "getFreeQuote": "Ücretsiz Teklif Al",
+    "cta": {
+      "explore": "Hizmetleri Keşfet",
+      "quote": "Ücretsiz Teklif Al",
+      "whatsappMessage": "Merhaba! Seyahat hizmetlerinizle ilgileniyorum. Türkiye gezimi planlamama yardımcı olabilir misiniz?"
+    }
+  },
+  "stats": {
+    "happyGuests": "Mutlu Misafir",
+    "yachts": "Yat",
+    "tours": "Tur",
+    "yearsExperience": "Yıllık Deneyim",
+    "years": "Yıllık Deneyim",
+    "guests": "Mutlu Misafir"
+  },
+  "services": {
+    "title": "Hizmetlerimiz",
+    "subtitle": "Neler Sunuyoruz",
+    "description": "Lüks yat kiralamadan rehberli turlara, Türkiye maceranızı unutulmaz kılmak için kapsamlı seyahat hizmetleri sunuyoruz.",
+    "yachtCharter": {
+      "title": "Özel Yat Kiralama",
+      "description": "Muhteşem Türk kıyı şeridi boyunca lüks gulet kiralama"
+    },
+    "cabinCharter": {
+      "title": "Kabin Charter",
+      "description": "Uygun fiyatlı bir yelken deneyimi için ortak mavi yolculuğa katılın"
+    },
+    "tours": {
+      "title": "Turlar ve Geziler",
+      "description": "Antik kalıntılara, doğal harikulara ve gizli kalmış yerlere rehberli günlük geziler"
+    },
+    "carRental": {
+      "title": "Araç Kiralama",
+      "description": "Türkiye'yi kendi hızınızda keşfetmek için kaliteli araçlar"
+    },
+    "transfer": {
+      "title": "Transfer Hizmetleri",
+      "description": "Türkiye genelinde havalimanı transferleri ve özel ulaşım"
+    },
+    "learnMore": "Daha Fazla",
+    "items": {
+      "yacht-charter": {
+        "title": "Özel Yat Kiralama",
+        "description": "Muhteşem Türk kıyı şeridi boyunca lüks gulet kiralama"
+      },
+      "cabin-charter": {
+        "title": "Kabin Charter",
+        "description": "Uygun fiyatlı bir yelken deneyimi için ortak mavi yolculuğa katılın"
+      },
+      "tours": {
+        "title": "Turlar ve Geziler",
+        "description": "Antik kalıntılara, doğal harikulara ve gizli kalmış yerlere rehberli günlük geziler"
+      },
+      "car-rental": {
+        "title": "Araç Kiralama",
+        "description": "Türkiye'yi kendi hızınızda keşfetmek için kaliteli araçlar"
+      },
+      "transfer": {
+        "title": "Transfer Hizmetleri",
+        "description": "Türkiye genelinde havalimanı transferleri ve özel ulaşım"
+      }
+    }
+  },
+  "tours": {
+    "title": "Popüler Turlar ve Kruvaziyer",
+    "subtitle": "Türkiye'yi Keşfedin",
+    "description": "Antik kalıntılara günlük gezilerden turkuaz kıyı boyunca haftalık mavi yolculuklara kadar en sevilen deneyimlerimizi keşfedin.",
+    "featuredCruises": "Öne Çıkan Mavi Yolculuklar",
+    "popularDayTours": "Popüler Günlük Turlar",
+    "viewAll": "Tüm Turları Gör",
+    "popular": "POPÜLER",
+    "from": "Başlayan",
+    "perPerson": "/kişi",
+    "viewDetails": "Detayları Gör",
+    "person": "kişi",
+    "learnMore": "Daha Fazla"
+  },
+  "quote": {
+    "title": "Ücretsiz Teklif İste",
+    "subtitle": "Başlayın",
+    "description": "Hayalinizdeki geziyi bize anlatın ve 2 saat içinde kişiselleştirilmiş teklif alın.",
+    "yachtDescription": "Sizin için mükemmel mavi yolculuk rotasını önereceğiz!",
+    "aiDescription": "Yapay zekamız da mükemmel güzergahı önerebilir!",
+    "yourInfo": "Bilgileriniz",
+    "fullName": "Ad Soyad",
+    "email": "E-posta Adresi",
+    "phone": "Telefon / WhatsApp",
+    "serviceType": "Hizmet Türü",
+    "serviceTypes": {
+      "yachtCharter": "Özel Yat Kiralama",
+      "cabinCharter": "Kabin Charter (Mavi Yolculuk)",
+      "dayTour": "Günlük Tur",
+      "multiDay": "Çok Günlük Tur",
+      "transfer": "Transfer Hizmeti",
+      "carRental": "Araç Kiralama"
+    },
+    "destinations": "Destinasyonlar",
+    "cruiseDestinations": "Kruvaziyer Destinasyonları",
+    "tourDestinations": "Tur Destinasyonları",
+    "selectMultiple": "(Çoklu seçim yapabilirsiniz)",
+    "destinationHint": "Tercih ettiğiniz duraları seçin, size en iyi rota önerisini sunalım!",
+    "tripDetails": "Gezi Detayları",
+    "startDate": "Başlangıç Tarihi",
+    "duration": {
+      "4nights": "4 Gece",
+      "7nights": "7 Gece",
+      "8nights": "8 Gece",
+      "10nights": "10 Gece",
+      "14nights": "14 Gece"
+    },
+    "cruiseDuration": "Kruvaziyer Süresi",
+    "travelers": "Yolcu Sayısı",
+    "budget": {
+      "budget": "Ekonomik",
+      "moderate": "Orta",
+      "luxury": "Lüks"
+    },
+    "budgetOptions": {
+      "budget": "Ekonomik",
+      "moderate": "Orta",
+      "luxury": "Lüks"
+    },
+    "interests": {
+      "historyCulture": "Tarih ve Kültür",
+      "natureHiking": "Doğa ve Yürüyüş",
+      "beachSwimming": "Plaj ve Yüzme",
+      "foodCuisine": "Yemek ve Mutfak",
+      "adventureSports": "Macera Sporları",
+      "photography": "Fotoğrafçılık",
+      "relaxation": "Rahatlama"
+    },
+    "interestOptions": {
+      "history": "Tarih ve Kültür",
+      "nature": "Doğa ve Yürüyüş",
+      "beach": "Plaj ve Yüzme",
+      "food": "Yemek ve Mutfak",
+      "adventure": "Macera Sporları",
+      "photography": "Fotoğrafçılık",
+      "relaxation": "Rahatlama"
+    },
+    "additionalInfo": "Ek Bilgiler",
+    "additionalPlaceholder": "Gezi beklentileriniz, özel istekleriniz, diyet gereksinimleri vb. hakkında daha fazla bilgi verin.",
+    "cruisePlaceholder": "Özel gereksinimlerinizi bize bildirin (diyet ihtiyaçları, kutlamalar, su sporları ilgileri vb.)",
+    "findCruiseRoute": "Rota Bul",
+    "getAiSuggestion": "AI Önerisi Al",
+    "sendWhatsApp": "WhatsApp ile Teklif İste",
+    "sending": "Gönderiliyor...",
+    "success": "Talebiniz gönderildi! 2 saat içinde size dönüş yapacağız.",
+    "recommendedRoute": "Önerilen Kruvaziyer Rotası",
+    "findingRoute": "Mükemmel rota aranıyor...",
+    "noRouteFound": "Eşleşen rota bulunamadı. Özel güzergah için bizimle iletişime geçin!",
+    "dayByDay": "Günlük Program",
+    "swimStops": "yüzme durağı",
+    "included": "Dahil",
+    "notIncluded": "Dahil Değil",
+    "totalFor": "{travelers} kişi için toplam",
+    "aiItinerary": "AI Tarafından Oluşturulan Tur Programı",
+    "generatingItinerary": "Kişiselleştirilmiş programınız oluşturuluyor...",
+    "estimatedPrice": "Tahmini Toplam Fiyat",
+    "failedGenerate": "Program oluşturulamadı.",
+    "aiHint": "Yapay zekamız mükemmel güzergahı önerebilir!",
+    "cruiseHint": "Sizin için mükemmel mavi yolculuk rotasını önereceğiz!",
+    "sections": {
+      "personalInfo": "Bilgileriniz",
+      "serviceType": "Hizmet Türü",
+      "cruiseDestinations": "Kruvaziyer Destinasyonları",
+      "tourDestinations": "Tur Destinasyonları",
+      "tripDetails": "Gezi Detayları",
+      "interests": "İlgi Alanlarınız",
+      "additionalInfo": "Ek Bilgiler"
+    },
+    "fields": {
+      "fullName": "Ad Soyad",
+      "email": "E-posta Adresi",
+      "phone": "Telefon / WhatsApp",
+      "startDate": "Başlangıç Tarihi",
+      "duration": "Süre",
+      "cruiseDuration": "Kruvaziyer Süresi",
+      "travelers": "Yolcu Sayısı",
+      "budgetLevel": "Bütçe Seviyesi"
+    },
+    "placeholders": {
+      "cruiseMessage": "Özel gereksinimlerinizi bize bildirin (diyet ihtiyaçları, kutlamalar, su sporları ilgileri vb.)",
+      "tourMessage": "Gezi beklentileriniz, özel istekleriniz, diyet gereksinimleri vb. hakkında daha fazla bilgi verin."
+    },
+    "cruise": {
+      "recommendedRoute": "Önerilen Kruvaziyer Rotası",
+      "finding": "Mükemmel rota aranıyor...",
+      "dayByDay": "Günlük Program",
+      "swimStops": "yüzme durağı",
+      "included": "Dahil",
+      "notIncluded": "Dahil Değil",
+      "totalFor": "{count} kişi için toplam",
+      "noRoute": "Eşleşen rota bulunamadı. Özel güzergah için bizimle iletişime geçin!"
+    },
+    "ai": {
+      "title": "AI Tarafından Oluşturulan Tur Programı",
+      "generating": "Kişiselleştirilmiş programınız oluşturuluyor...",
+      "estimatedPrice": "Tahmini Toplam Fiyat",
+      "meals": "Öğünler",
+      "failed": "Program oluşturulamadı."
+    },
+    "buttons": {
+      "findCruiseRoute": "Rota Bul",
+      "getAiSuggestion": "AI Önerisi Al",
+      "sendWhatsApp": "WhatsApp ile Teklif İste",
+      "sending": "Gönderiliyor..."
+    },
+    "whatsapp": {
+      "greeting": "Merhaba Light Tours!",
+      "request": "Aşağıdaki için teklif almak istiyorum",
+      "name": "Ad",
+      "email": "E-posta",
+      "service": "Hizmet",
+      "destinations": "Destinasyonlar",
+      "date": "Tarih",
+      "duration": "Süre",
+      "travelers": "Yolcu",
+      "budget": "Bütçe",
+      "interests": "İlgi Alanları",
+      "interestedRoute": "İlgilenilen rota",
+      "totalPrice": "Toplam fiyat",
+      "additionalInfo": "Ek bilgi"
+    },
+    "errors": {
+      "selectDestination": "Lütfen en az bir destinasyon seçin",
+      "enterNameEmail": "Lütfen adınızı ve e-postanızı girin"
+    },
+    "cruiseDestinationHint": "Tercih ettiğiniz duraları seçin, size en iyi rota önerisini sunalım!",
+    "day": "Gün",
+    "days": "gün",
+    "person": "kişi",
+    "people": "kişi",
+    "from": "Başlayan",
+    "perPerson": "kişi başı"
+  },
+  "trust": {
+    "title": "Neden Light Tours?",
+    "subtitle": "Binlerce Kişinin Güveni",
+    "experience": "{years}+ Yıllık Deneyim",
+    "experienceDesc": "1988'den beri mutlu gezginlere hizmet veriyoruz",
+    "licensed": "Lisanslı ve Sigortalı",
+    "licensedDesc": "TÜRSAB sertifikalı tur operatörü",
+    "support": "7/24 Destek",
+    "supportDesc": "İhtiyacınız olduğunda her zaman yanınızdayız",
+    "local": "Yerel Uzmanlık",
+    "localDesc": "Türk kıyılarında derin bilgi birikimi",
+    "description": "{years}+ yıllık deneyimimizle, binlerce gezginin Türkiye'nin büyüsünü keşfetmesine yardımcı olduk.",
+    "licensedAgency": "Lisanslı Seyahat Acentası",
+    "cta": {
+      "title": "Gezinizi Planlamaya Hazır mısınız?",
+      "subtitle": "Kişiselleştirilmiş seyahat deneyimi için şimdi iletişime geçin",
+      "button": "WhatsApp'ta Sohbet Et",
+      "whatsappMessage": "Merhaba! Web sitenizi gördüm ve Türkiye gezisi planlamakla ilgileniyorum. Yardımcı olabilir misiniz?"
+    },
+    "items": {
+      "licensed": {
+        "title": "Lisanslı ve Sigortalı",
+        "description": "Tam sigorta kapsamına sahip TÜRSAB sertifikalı tur operatörü"
+      },
+      "experience": {
+        "title": "37+ Yıllık Deneyim",
+        "description": "1988'den beri mutlu gezginlere hizmet veriyoruz"
+      },
+      "support": {
+        "title": "7/24 Destek",
+        "description": "İhtiyacınız olduğunda her zaman yanınızdayız"
+      },
+      "bestPrice": {
+        "title": "En İyi Fiyat Garantisi",
+        "description": "Gizli ücret olmadan rekabetçi fiyatlar"
+      }
+    }
+  },
+  "footer": {
+    "description": "{years} yildir guvenilir seyahat ortaginiz. Luks yat kiralama, rehberli turlar ve unutulmaz Turkiye deneyimlerinde uzman.",
+    "quickLinks": "Hizli Baglantilar",
+    "services": "Hizmetler",
+    "contact": "İletişim",
+    "legal": "Yasal",
+    "privacy": "Gizlilik Politikasi",
+    "terms": "Kullanim Sartlari",
+    "cookies": "Cerez Politikasi",
+    "allRights": "Tüm hakları saklıdır.",
+    "tursabMember": "TÜRSAB Üyesi",
+    "since": "1988'den beri",
+    "licensed": "Lisansli Seyahat Acentesi",
+    "links": {
+      "about": "Hakkimizda",
+      "fleet": "Filomuz",
+      "tours": "Turlar",
+      "blog": "Blog",
+      "faq": "SSS",
+      "contact": "Iletisim"
+    },
+    "popularTours": "Populer Turlar",
+    "tours": {
+      "fethiyeKekova": "Fethiye-Kekova Mavi Yolculuk",
+      "twelveIslands": "12 Adalar Turu",
+      "pamukkale": "Pamukkale Gunluk Tur",
+      "dalyan": "Dalyan Camur Banyosu",
+      "paragliding": "Yamaç Paraşütü"
+    },
+    "contactUs": "Bize Ulasin",
+    "copyright": "© {year} Light Tours. Tum haklari saklidir."
+  },
+  "contact": {
+    "hero": {
+      "subtitle": "Bize Ulasin",
+      "title": "Iletisim",
+      "description": "Sorulariniz mi var? Mukemmel seyahatinizi planlamaniza yardimci olmak icin buradayiz."
+    },
+    "info": {
+      "title": "Iletisim Bilgileri",
+      "description": "Asagidaki kanallardan bize ulasabilirsiniz. Calisma saatlerinde genellikle 2 saat icinde yanit veriyoruz.",
+      "phone": "Telefon",
+      "whatsapp": "WhatsApp",
+      "whatsappDesc": "Aninda bizimle sohbet edin",
+      "whatsappNote": "Hizli yanitlar, 7/24",
+      "email": "E-posta",
+      "office": "Ofis"
+    },
+    "hours": {
+      "title": "Calisma Saatleri",
+      "weekdays": "Pazartesi - Cuma",
+      "saturday": "Cumartesi",
+      "sunday": "Pazar",
+      "note": "* Acil sorgular icin 7/24 WhatsApp destegi mevcuttur"
+    },
+    "form": {
+      "title": "Bize Mesaj Gonderin",
+      "name": "Ad Soyad",
+      "email": "E-posta",
+      "phone": "Telefon",
+      "subject": "Konu",
+      "selectSubject": "Bir konu secin",
+      "message": "Mesaj",
+      "messagePlaceholder": "Seyahat planlarinizi bize anlatın...",
+      "submit": "WhatsApp ile Mesaj Gonder",
+      "subjects": {
+        "yacht": "Yat Kiralama Sorgulama",
+        "cabin": "Kabin Kiralama Rezervasyonu",
+        "tour": "Gunluk Tur Rezervasyonu",
+        "car": "Arac Kiralama",
+        "transfer": "Transfer Hizmeti",
+        "custom": "Ozel Paket",
+        "other": "Diger"
+      }
+    },
+    "map": {
+      "title": "Bizi Bulun"
+    }
+  },
+  "yachtCharter": {
+    "hero": {
+      "subtitle": "Ozel Kiralamalr",
+      "title": "Yat Kiralama",
+      "description": "Luks filomuzla Turk kiyilarini kesfedin. Hayalinizdeki tatil icin ozel yat kiralamalari."
+    },
+    "features": {
+      "title": "Neden Ozel Kiralama?",
+      "privacy": {
+        "title": "Tam Gizlilik",
+        "desc": "Tum yat size ait"
+      },
+      "flexibility": {
+        "title": "Tam Esneklik",
+        "desc": "Sizin rotaniz, sizin programiniz"
+      },
+      "service": {
+        "title": "Kisisel Hizmet",
+        "desc": "Grubunuza ozel murettebat"
+      },
+      "cuisine": {
+        "title": "Gurme Mutfak",
+        "desc": "Sef tarafindan hazirlanan yemekler"
+      }
+    },
+    "fleet": {
+      "title": "Filomuz",
+      "subtitle": "Turkuaz sularda benzersiz deneyimler sunan, ozenle bakimli yatlarimiz arasinda secim yapin."
+    },
+    "cta": {
+      "title": "Aradiginizi Bulamdiniz mi?",
+      "subtitle": "100'den fazla yata erisimimiz var. Gereksinimlerinizi bize bildirin, mukemmel eslesmeyi bulalim.",
+      "contact": "Bize Ulasin",
+      "whatsapp": "WhatsApp"
+    },
+    "whyChoose": {
+      "title": "Neden Ozel Kiralama?",
+      "fleet": {
+        "title": "Premium Filo",
+        "desc": "Ozenle secilmis luks yatlar"
+      },
+      "crew": {
+        "title": "Uzman Murettebat",
+        "desc": "Profesyonel ve deneyimli"
+      },
+      "routes": {
+        "title": "Ozel Rotalar",
+        "desc": "Sizin guzergahiniz, sizin programiniz"
+      },
+      "service": {
+        "title": "Tam Hizmet",
+        "desc": "Gurme yemekler dahil"
+      }
+    },
+    "specs": {
+      "length": "Uzunluk",
+      "cabins": "Kabin",
+      "guests": "Misafir"
+    },
+    "inquire": "Bilgi Al"
+  },
+  "cabinCharter": {
+    "hero": {
+      "subtitle": "Mavi Yolculuk",
+      "title": "Kabin Kiralama",
+      "description": "Maceraya katilin! Bir kabin rezerve edin ve Turk kiyilari boyunca programli mavi yolculuk kalkislarimizda diger gezginlerle yelken acin."
+    },
+    "howItWorks": {
+      "title": "Kabin Kiralama Nasil Calisir",
+      "step1": {
+        "step": "1",
+        "title": "Rota Secin",
+        "desc": "Populer rota seceneklerimizden secin"
+      },
+      "step2": {
+        "step": "2",
+        "title": "Kabin Secin",
+        "desc": "Tercih ettiginiz kabin tipini secin"
+      },
+      "step3": {
+        "step": "3",
+        "title": "Tarih Secin",
+        "desc": "Size uygun bir kalkis bulun"
+      },
+      "step4": {
+        "step": "4",
+        "title": "Yelken Acin!",
+        "desc": "Binin ve mavi yolculugunuzun tadini cikarin"
+      }
+    },
+    "routes": {
+      "title": "Populer Rotalar",
+      "subtitle": "Mayis'tan Ekim'e haftalik kalkislar. Yemekler, murettebat ve aktiviteler dahil her sey dahil paketler.",
+      "popular": "POPULER",
+      "from": "Baslayan",
+      "perPerson": "/kisi",
+      "bookNow": "Simdi Rezerve Et"
+    },
+    "included": {
+      "title": "Neler Dahil",
+      "meals": {
+        "title": "Tam Pansiyon",
+        "desc": "Kahvalti, ogle ve aksam yemegi"
+      },
+      "accommodation": {
+        "title": "Konaklama",
+        "desc": "Klimali banyolu kabin"
+      },
+      "crew": {
+        "title": "Profesyonel Ekip",
+        "desc": "Kaptan, asci ve guverte gorevlileri"
+      },
+      "fuel": {
+        "title": "Yakit ve Liman Ucretleri",
+        "desc": "Tum masraflar dahil"
+      },
+      "activities": {
+        "title": "Su Aktiviteleri",
+        "desc": "Snorkeling, kano ve daha fazlasi"
+      },
+      "cleaning": {
+        "title": "Gunluk Temizlik",
+        "desc": "Kabin ve banyo servisi"
+      },
+      "beverages": {
+        "title": "Icecekler",
+        "desc": "Cay, kahve ve su"
+      },
+      "memories": {
+        "title": "Animlar",
+        "desc": "Her durakta fotograf firsatlari"
+      }
+    },
+    "cta": {
+      "title": "Mavi Yolculuk Maceraniza Hazir misiniz?",
+      "subtitle": "Guncel musaitlik ve ozel grup fiyatlari icin bize ulasin.",
+      "button": "Ucretsiz Teklif Alin"
+    },
+    "cabinTypes": {
+      "title": "Kabin Tipleri",
+      "subtitle": "Tum kabinler banyo, klima ve gunluk temizlik hizmeti icermektedir.",
+      "standard": {
+        "name": "Standart Kabin",
+        "desc": "Banyolu rahat ikiz veya cift kisilik kabin",
+        "price": "350/kisi"
+      },
+      "deluxe": {
+        "name": "Deluxe Kabin",
+        "desc": "Premium olanaklara ve deniz manzarasina sahip genis kabin",
+        "price": "450/kisi"
+      },
+      "master": {
+        "name": "Master Suit",
+        "desc": "Ozel balkonu ve luks donanima sahip ferah suit",
+        "price": "600/kisi"
+      }
+    }
+  },
+  "toursPage": {
+    "hero": {
+      "subtitle": "Turkiye'yi Kesfedin",
+      "title": "Turlar ve Geziler",
+      "description": "Antik harikalardan heyecan verici maceralara, uzman rehberlerimizle Turkiye'nin en iyilerini kesfedin."
+    },
+    "tabs": {
+      "dayTours": "Gunluk Turlar",
+      "activities": "Aktiviteler",
+      "blueCruises": "Mavi Yolculuklar"
+    },
+    "dayTours": {
+      "title": "Gunluk Turlar",
+      "subtitle": "Rehberli gunluk turlarimizla Turkiye'nin en ikonik destinasyonlarini kesfedin. Tum turlar ulasim, rehber ve giris ucretlerini icermektedir."
+    },
+    "activities": {
+      "title": "Aktiviteler ve Maceralar",
+      "subtitle": "Mavi Lagün uzerinde yamac parasutu veya kristal sularda dalisten tatile heyecan katin."
+    },
+    "adventure": "MACERA",
+    "bookTour": "Bu Turu Rezerve Et",
+    "bookNow": "Simdi Rezerve Et",
+    "whyBook": {
+      "title": "Neden Light Tours ile Rezervasyon Yapmalisiniz?",
+      "bestPrice": {
+        "title": "En Iyi Fiyat Garantisi",
+        "desc": "Karsilastirabilir her teklifi eslestiriz"
+      },
+      "guides": {
+        "title": "Uzman Yerel Rehberler",
+        "desc": "Lisansli, cok dilli rehberler"
+      },
+      "transport": {
+        "title": "Konforlu Ulasim",
+        "desc": "Modern, klimali araclar"
+      },
+      "groups": {
+        "title": "Kucuk Gruplar",
+        "desc": "Kisisel ilgi"
+      }
+    },
+    "cta": {
+      "title": "Karar Veremiyor musunuz? Yardim Edelim!",
+      "subtitle": "Seyahat uzmanlarimiz ilgi alanlariniza, zamaniniza ve butcenize gore ozel bir guzergah olusturabilir.",
+      "button": "Ozel Guzergah Alin"
+    }
+  },
+  "carRental": {
+    "hero": {
+      "subtitle": "Ozgurce Kesfedin",
+      "title": "Arac Kiralama",
+      "description": "Fethiye ve otesini kendi hizinizda kesfedin. Kaliteli araclar, rekabetci fiyatlar ve sorunsuz hizmet."
+    },
+    "categories": {
+      "economy": "Ekonomik",
+      "compact": "Kompakt",
+      "suv": "SUV",
+      "premium": "Premium"
+    },
+    "included": {
+      "title": "Tum Kiralamalar Iceriyor",
+      "insurance": "Tam sigorta kapsami",
+      "unlimited": "Sinirsiz kilometre",
+      "support": "7/24 yol yardimi",
+      "delivery": "Havaalani/otel teslimi"
+    },
+    "cta": {
+      "title": "Ozel Teklif mi Gerekiyor?",
+      "subtitle": "Uzun sureli kiralamalar, ozel istekler veya grup rezervasyonlari? Sizin icin buradayiz.",
+      "button": "Ozel Teklif Al"
+    },
+    "booking": {
+      "pickup": "Alis Yeri",
+      "pickupDate": "Alis Tarihi",
+      "returnDate": "Iade Tarihi",
+      "checkAvailability": "Musaitligi Kontrol Et",
+      "locations": {
+        "airport": "Dalaman Havalimani",
+        "office": "Fethiye Ofis",
+        "hotel": "Otel Teslimi"
+      }
+    },
+    "features": {
+      "selection": {
+        "title": "Genis Secenek",
+        "desc": "Ekonomikten lukse"
+      },
+      "pickup": {
+        "title": "Esnek Alis",
+        "desc": "Havalimani, otel veya ofis"
+      },
+      "insurance": {
+        "title": "Tam Sigorta",
+        "desc": "Kapsamli koruma dahil"
+      },
+      "cancel": {
+        "title": "Ucretsiz Iptal",
+        "desc": "Alistan 24 saat once"
+      },
+      "fuel": {
+        "title": "Yakit Politikasi",
+        "desc": "Dolu-dolu, surpriz yok"
+      },
+      "support": {
+        "title": "7/24 Destek",
+        "desc": "Yol yardimi dahil"
+      }
+    },
+    "fleet": {
+      "title": "Filomuz",
+      "subtitle": "Tum araclar iyi bakilmis, tam sigortali ve 7/24 yol yardimi ile birlikte gelir.",
+      "seats": "koltuk",
+      "book": "Kirala"
+    },
+    "info": {
+      "title": "Kiralama Bilgileri",
+      "requirements": {
+        "title": "Gereksinimler",
+        "items": [
+          "Gecerli ehliyet (min. 2 yil)",
+          "Minimum yas: 21",
+          "Depozito icin kredi karti",
+          "Gecerli pasaport veya kimlik"
+        ]
+      },
+      "insurance": {
+        "title": "Sigorta",
+        "items": [
+          "Tam CDW kapsami",
+          "Ucuncu sahis sorumlulugu",
+          "Hirsizlik korumasi",
+          "7/24 yol yardimi"
+        ]
+      },
+      "extras": {
+        "title": "Ekstralar",
+        "items": [
+          "GPS navigasyon: 5/gun",
+          "Cocuk koltugu: 5/gun",
+          "Ek surucu: 5/gun",
+          "Sinir gecis izni: 15"
+        ]
+      }
+    }
+  },
+  "transfer": {
+    "hero": {
+      "subtitle": "Konforlu Seyahat",
+      "title": "Transfer Hizmetleri",
+      "description": "Guvenilir havalimani ve otel transfer hizmetleri. Profesyonel soforlerimizle tatilinize stressi baslatin."
+    },
+    "services": {
+      "title": "Hizmetlerimiz",
+      "airport": {
+        "title": "Havalimani Transferleri",
+        "desc": "Dalaman ve Antalya havalimalarina"
+      },
+      "hotel": {
+        "title": "Otel Transferleri",
+        "desc": "Oteller ve turistik yerler arasi"
+      },
+      "vip": {
+        "title": "VIP Hizmet",
+        "desc": "Premium olanaklara sahip luks araclar"
+      },
+      "group": {
+        "title": "Grup Transferleri",
+        "desc": "Buyuk gruplar icin konforlu minibusler"
+      }
+    },
+    "vehicles": {
+      "title": "Araclarimiz",
+      "sedan": "Sedan (1-3 yolcu)",
+      "minivan": "Minivan (4-7 yolcu)",
+      "minibus": "Minibu (8-15 yolcu)",
+      "bus": "Otobus (16+ yolcu)"
+    },
+    "cta": {
+      "title": "Transferinizi Rezerve Edin",
+      "subtitle": "Guvenilir, zamaninda hizmet garantisi.",
+      "button": "Teklif Al"
+    },
+    "booking": {
+      "from": "Nereden",
+      "to": "Nereye",
+      "date": "Tarih",
+      "passengers": "Yolcu",
+      "getQuote": "Teklif Al"
+    },
+    "features": {
+      "meet": {
+        "title": "Karsilama",
+        "desc": "Varisda sizi bekleyen sofor"
+      },
+      "tracking": {
+        "title": "Ucus Takibi",
+        "desc": "Ucusunuzu takip ediyoruz"
+      },
+      "support": {
+        "title": "7/24 Destek",
+        "desc": "Her zaman ulasabilirsiniz"
+      },
+      "fixed": {
+        "title": "Sabit Fiyatlar",
+        "desc": "Gizli masraf yok"
+      }
+    },
+    "destinations": {
+      "title": "Populer Rotalar",
+      "dalaman": "Dalaman Havalimani",
+      "antalya": "Antalya Havalimani",
+      "fethiye": "Fethiye",
+      "oludeniz": "Oludeniz",
+      "kas": "Kas",
+      "kalkan": "Kalkan",
+      "marmaris": "Marmaris"
+    }
+  },
+  "about": {
+    "hero": {
+      "subtitle": "Hikayemiz",
+      "title": "Light Tours Hakkinda",
+      "description": "Turk Rivierasi'nin kalbinde {years} yillik unutulmaz seyahat deneyimleri."
+    },
+    "story": {
+      "badge": "1988'den beri",
+      "title": "Hikayemiz",
+      "p1": "Light Tours, 1988 yilinda Fethiye'de kucuk bir aile isletmesi olarak kuruldu. Turk kiyilarinin guzelligini ziyaretcilerle paylasma tutkusuyla baslayan yolculuk, bolgenin en guvenilir seyahat acentelerinden biri haline geldi.",
+      "p2": "Kurucumuzun vizyonu basitti: olagan ustu hizmet sunmak, en yuksek standartlari korumak ve her misafiri aile gibi agirlamak. Bu felsefe otuz yildan fazla suredir bize rehberlik etti.",
+      "p3": "Bugun, 20'den fazla yatimiz ve ozverili profesyonellerden olusan ekibimizle, dunyanin dort bir yanindan gelen gezginler icin unutulmaz deneyimler yaratmaya devam ediyoruz.",
+      "license": "Lisans",
+      "yearsExcellence": "Yillik Deneyim"
+    },
+    "timeline": {
+      "title": "Yolculugumuz",
+      "items": {
+        "1988": {
+          "title": "Baslangiç",
+          "desc": "Fethiye'de kucuk bir aile ofisi olarak kuruldu, yerel tekne turlari sunulmaya baslandi."
+        },
+        "1995": {
+          "title": "Filo Genislemesi",
+          "desc": "Ilk guletimizi aldik ve ozel yat kiralamalarina basladik."
+        },
+        "2002": {
+          "title": "TURSAB Sertifikasi",
+          "desc": "Resmi seyahat acentesi lisansi alindi, hizmet yelpazemiz genisledi."
+        },
+        "2010": {
+          "title": "Uluslararasi Taninirlik",
+          "desc": "Avrupa ve otesinden uluslararasi musterilere hizmet vermeye basladik."
+        },
+        "2018": {
+          "title": "30. Yil Kutlamasi",
+          "desc": "20'den fazla yatlik filoyla uc on yili kutladik."
+        },
+        "2024": {
+          "title": "Dijital Donusum",
+          "desc": "Kisisellestirilmis seyahat planlamasi icin yapay zeka destekli rezervasyon sistemi baslatildi."
+        }
+      }
+    },
+    "values": {
+      "title": "Degerlerimiz",
+      "subtitle": "Yaptigimiz her seye rehberlik eden ilkeler",
+      "excellence": {
+        "title": "Mukemmellik",
+        "desc": "Yolculugunuzun her detayinda mukemmellik icin calisiyoruz"
+      },
+      "trust": {
+        "title": "Guven",
+        "desc": "Durustluk ve guvenilirlik yoluyla kalici iliskiler kuruyoruz"
+      },
+      "innovation": {
+        "title": "Yenilik",
+        "desc": "Seyahat deneyiminizi gelistirmek icin teknolojiyi benimsiyoruz"
+      },
+      "sustainability": {
+        "title": "Surdurulebilirlik",
+        "desc": "Sorumlu turizm ve cevre korumaya kararliyiz"
+      }
+    },
+    "team": {
+      "title": "Ekibimizle Tanisin",
+      "subtitle": "Seyahatinizi unutulmaz kilmaya adanmis profesyoneller"
+    },
+    "cta": {
+      "title": "Maceraniza Baslamaya Hazir misiniz?",
+      "subtitle": "{years} yillik deneyimimiz sizin icin calissin.",
+      "contact": "Bize Ulasin",
+      "quote": "Teklif Alin"
+    }
+  },
+  "faq": {
+    "hero": {
+      "subtitle": "Yardim Merkezi",
+      "title": "Sikca Sorulan Sorular",
+      "description": "Hizmetlerimiz, rezervasyonlar ve Turkiye seyahati hakkinda sik sorulan sorularin yanitlarini bulun."
+    },
+    "categories": {
+      "general": "Genel",
+      "booking": "Rezervasyon ve Odeme",
+      "yachts": "Yat Kiralamalari",
+      "tours": "Turlar ve Aktiviteler",
+      "yachtCharter": {
+        "title": "Yat Kiralama",
+        "questions": [
+          {
+            "q": "Yat kiralamasina neler dahil?",
+            "a": "Ozel kiralamalar; yat, murettebat (kaptan, asci, tayfalar), tum ogunler, yakit, liman ucretleri, su sporlari ekipmanlari ve nevresim takimi icerir. Alkollu ickiler genellikle ekstra ucretlidir."
+          },
+          {
+            "q": "Yelken deneyimim olmasi gerekiyor mu?",
+            "a": "Hayir! Yatlarimizda tum yelken islerini halleren profesyonel murettebat bulunur. Rahatlayabilir, yuzebilir ve yolculugun tadini cikarabilirsiniz."
+          },
+          {
+            "q": "Yat gezisi icin ne paketlemeliyim?",
+            "a": "Hafif, rahat giysiler, mayo, gunes kremi, sapka ve tekne icin yumusak tabanli ayakkabi paketleyin. Havlu, snorkel ekipmani ve temel tuvalet malzemelerini biz sagliyoruz."
+          },
+          {
+            "q": "Rota ozellestirilebilir mi?",
+            "a": "Kesinlikle! Ozel kiralamalar tam esneklik sunar. Tercihlerinizi bizimle paylasın ve hava durumu ile ilgi alanlariniza gore kisisellestirilmis bir rota olusturalim."
+          }
+        ]
+      },
+      "cabinCharter": {
+        "title": "Kabin Kiralama",
+        "questions": [
+          {
+            "q": "Kabin ve yat kiralama arasindaki fark nedir?",
+            "a": "Kabin kiralama, bireysel kabin kiralayip tekneyi diger yolcularla paylastiginiz anlamina gelir. Daha uygun fiyatli ve insanlarla tanismak icin harika bir yoldur. Yat kiralama ozeldir - tum tekneyi kiralarsiniz."
+          },
+          {
+            "q": "Tekneyi kimlerle paylasacagim?",
+            "a": "Kabin kiralamalarinda genellikle cesitli ulkelerden 8-16 misafir bulunur. Yeni insanlarla tanismayi seven yalniz gezginler veya ciftler icin mukemmel bir sosyal deneyimdir."
+          },
+          {
+            "q": "Kabin kiralamasina yemekler dahil mi?",
+            "a": "Evet, tum kabin kiralamalari gemideki sefimiz tarafindan hazirlanan kahvalti, ogle ve aksam yemegi dahil tam pansiyondur. Ozel diyet gereksinimleri onceden bildirilirse karsilanabilir."
+          }
+        ]
+      },
+      "dayTours": {
+        "title": "Gunluk Turlar",
+        "questions": [
+          {
+            "q": "Gunluk turlara neler dahil?",
+            "a": "Tum gunluk turlara otel transferi, ulasim, profesyonel rehber, giris ucretleri ve ogle yemegi (belirtilmisse) dahildir. Ayrintilar icin tur aciklamalarini kontrol edin."
+          },
+          {
+            "q": "Turlar hangi dillerde mevcut?",
+            "a": "Rehberlerimiz Ingilizce, Almanca, Rusca ve Turkce konusuyor. Diger diller onceden bildirilmesi halinde talep uzerine mevcut olabilir."
+          },
+          {
+            "q": "Turlar cocuklar icin uygun mu?",
+            "a": "Cogu tur aile dostudur. Yamaç parasutü gibi bazi aktivitelerin yas sinirlamasi vardir. Ozel tur gereksinimleri icin bizimle iletisime gecin."
+          }
+        ]
+      },
+      "transfers": {
+        "title": "Transfer ve Arac Kiralama",
+        "questions": [
+          {
+            "q": "Havaalani transferleri icin ucuslari takip ediyor musunuz?",
+            "a": "Evet, tum gelen ucuslari izliyoruz. Ucusunuz gecikirse, soforunuz buna gore ek ucret olmadan ayarlama yapar."
+          },
+          {
+            "q": "Arac kiralamak icin hangi belgelere ihtiyacim var?",
+            "a": "Gecerli bir ehliyet (en az 2 yillik), pasaport veya kimlik ve depozito icin kredi karti gereklidir. Minimum yas 21'dir."
+          },
+          {
+            "q": "Arac kiralamaya sigorta dahil mi?",
+            "a": "Evet, tum kiralamalara kapsamli sigorta (CDW) ve ucuncu sahis sorumlulugu dahildir. GPS ve cocuk koltugu gibi opsiyonel ekstralar mevcuttur."
+          }
+        ]
+      }
+    },
+    "cta": {
+      "title": "Hala Sorulariniz mi Var?",
+      "subtitle": "Ekibimiz yaklaşan seyahatinizle ilgili her turlu soruda size yardimci olmaya hazir.",
+      "button": "Bize Ulasin",
+      "contact": "Bize Ulasin",
+      "whatsapp": "WhatsApp ile Yazin"
+    }
+  },
+  "blog": {
+    "hero": {
+      "subtitle": "Seyahat Blogu",
+      "title": "Seyahat Ipuclari ve Ilham",
+      "description": "Turkiye maceraniz icin ici ipuclari, destinasyon rehberleri ve seyahat ilhami kesfin."
+    },
+    "readMore": "Devami",
+    "categories": {
+      "all": "Tumu",
+      "destinations": "Destinasyonlar",
+      "tips": "Seyahat Ipuclari",
+      "stories": "Hikayeler",
+      "travelGuide": "Seyahat Rehberi",
+      "tours": "Turlar",
+      "yachtCharter": "Yat Kiralama",
+      "activities": "Aktiviteler",
+      "dayTrips": "Gunluk Geziler",
+      "foodCulture": "Yemek ve Kultur"
+    },
+    "featured": "One Cikan",
+    "minRead": "dk okuma",
+    "comingSoon": "Cok Yakinda",
+    "loadMore": "Daha Fazla Yukle",
+    "posts": {
+      "best-time-visit-fethiye": {
+        "title": "Fethiye'yi Ziyaret Etmek Icin En Iyi Zaman: Mevsimlik Rehber",
+        "excerpt": "Mukemmel hava, daha az kalabalik ve en iyi deneyimler icin Fethiye'yi ne zaman ziyaret etmeniz gerektigini kesfin.",
+        "date": "28 Kasim 2024"
+      },
+      "12-islands-tour-guide": {
+        "title": "12 Adalar Tekne Turu: Bilmeniz Gereken Her Sey",
+        "excerpt": "Fethiye'nin unlu 12 Adalar tekne turu icin kesin rehber. Ne bekleyeceginiz ve ici ipuclari.",
+        "date": "25 Kasim 2024"
+      },
+      "blue-cruise-vs-yacht-charter": {
+        "title": "Mavi Yolculuk vs Yat Kiralama: Hangisi Size Uygun?",
+        "excerpt": "Kabin kiralama mi ozel yat mi? Farkliliklari ve maliyetleri inceliyoruz.",
+        "date": "20 Kasim 2024"
+      },
+      "paragliding-oludeniz": {
+        "title": "Oludeniz'de Yamac Parasutu: Eksiksiz Rehber",
+        "excerpt": "Babadag'dan unlu Mavi Lagün üzerinde suzulun.",
+        "date": "15 Kasim 2024"
+      },
+      "dalyan-mud-baths": {
+        "title": "Dalyan Gunluk Gezi: Kaya Mezarlari, Kaplumbagalar ve Camur Banyolari",
+        "excerpt": "Antik Likya kaya mezarlarini kesfin ve Caretta Caretta kaplumbagalariyla yuzun.",
+        "date": "10 Kasim 2024"
+      },
+      "turkish-cuisine-fethiye": {
+        "title": "Fethiye'de Denemeniz Gereken 10 Turk Yemegi",
+        "excerpt": "Taze deniz urunlerinden geleneksel kebaplara, en iyi yerel lezzetleri kesfin.",
+        "date": "5 Kasim 2024"
+      }
+    },
+    "newsletter": {
+      "title": "Bultenimize Abone Olun",
+      "subtitle": "Seyahat ipuclari, özel teklifler ve destinasyon ilhami e-postaniza gelsin.",
+      "placeholder": "E-posta adresinizi girin",
+      "button": "Abone Ol"
+    }
+  },
+  "privacy": {
+    "title": "Gizlilik Politikasi",
+    "lastUpdated": "Son guncelleme: Kasim 2024",
+    "phone": "Telefon",
+    "sections": {
+      "collect": {
+        "title": "1. Topladigimiz Bilgiler",
+        "intro": "Light Tours Seyahat Acentesi, bize dogrudan sagladiginiz bilgileri toplar:",
+        "items": [
+          "Ad, e-posta adresi, telefon numarasi",
+          "Fatura ve odeme bilgileri",
+          "Seyahat tercihleri ve rezervasyon detaylari",
+          "Bizimle iletisimleriniz"
+        ]
+      },
+      "use": {
+        "title": "2. Bilgilerinizi Nasil Kullaniyoruz",
+        "intro": "Topladigimiz bilgileri su amaclarla kullaniriz:",
+        "items": [
+          "Rezervasyonlarinizi islemek ve yonetmek",
+          "Rezervasyon onaylari ve guncellemeler gondermek",
+          "Sorulariniza yanit vermek",
+          "Promosyon iletisimleri gondermek (izninizle)",
+          "Hizmetlerimizi iyilestirmek"
+        ]
+      },
+      "sharing": {
+        "title": "3. Bilgi Paylasimi",
+        "content": "Bilgilerinizi yalnizca hizmetlerimizi sunmak icin gerekli oldugunda, oteller, hava yollari, tur operatorleri ve odeme islemcileri dahil ucuncu taraflarla paylasabiliriz. Kisisel bilgilerinizi satmiyoruz."
+      },
+      "security": {
+        "title": "4. Veri Guvenligi",
+        "content": "Kisisel bilgilerinizi korumak icin uygun guvenlik onlemleri uyguluyoruz. Ancak, internet uzerinden iletim yontemi %100 guvenli degildir."
+      },
+      "rights": {
+        "title": "5. Haklariniz",
+        "intro": "Su haklara sahipsiniz:",
+        "items": [
+          "Kisisel verilerinize erisim",
+          "Hatali verileri duzeltme",
+          "Verilerinizin silinmesini talep etme",
+          "Pazarlama iletisimlerinden cikma"
+        ]
+      },
+      "cookies": {
+        "title": "6. Cerezler",
+        "content": "Web sitemiz tarama deneyiminizi gelistirmek icin cerezler kullanir. Daha fazla bilgi icin Cerez Politikamiza bakin."
+      },
+      "contact": {
+        "title": "7. Bize Ulasin",
+        "intro": "Bu Gizlilik Politikasi hakkinda sorulariniz varsa, lutfen bize ulasin:"
+      }
+    }
+  },
+  "terms": {
+    "title": "Kullanim Kosullari",
+    "lastUpdated": "Son guncelleme: Kasim 2024",
+    "phone": "Telefon",
+    "sections": {
+      "acceptance": {
+        "title": "1. Kosullarin Kabulu",
+        "content": "Light Tours Seyahat Acentesi hizmetlerine eriserek veya kullanarak bu Kullanim Kosullarina bagli olmayi kabul edersiniz. Kabul etmiyorsaniz, lutfen hizmetlerimizi kullanmayin."
+      },
+      "booking": {
+        "title": "2. Rezervasyon ve Odeme",
+        "items": [
+          "Rezervasyonu onaylamak icin %30 depozito gereklidir",
+          "Tam odeme kalkis tarihinden once yapilmalidir",
+          "Fiyatlar rezervasyon onaylanana kadar degisebilir",
+          "Tum fiyatlar aksi belirtilmedikce EUR cinsindendir"
+        ]
+      },
+      "cancellation": {
+        "title": "3. Iptal Politikasi",
+        "items": [
+          "Kalkistan 14+ gun once: Islem ucreti haric tam iade",
+          "Kalkistan 7-14 gun once: %50 iade",
+          "7 gundan az: Iade yok",
+          "Gelmeme: Iade yok"
+        ]
+      },
+      "insurance": {
+        "title": "4. Seyahat Sigortasi",
+        "content": "Iptal, tibbi masraflar ve kisisel esyalari kapsayan kapsamli seyahat sigortasi yaptirmanizi siddetle oneririz. Light Tours, sigorta kapsaminda olmayan kayiplardan sorumlu degildir."
+      },
+      "liability": {
+        "title": "5. Sorumluluk",
+        "content": "Light Tours, ulasim, konaklama ve aktivite saglayicilari icin acente olarak hareket eder. Bu ucuncu taraflar, hava kosullari veya kontrolumuz disindaki durumlardan kaynaklanan yaralanma, hasar, kayip veya gecikmelerden sorumlu degiliz."
+      },
+      "yachtTerms": {
+        "title": "6. Yat Kiralama Kosullari",
+        "items": [
+          "Guvenlik depozitosu gereklidir (inceleme sonrasi iade)",
+          "Misafirler kaptanin guvenlik talimatlarına uymalıdır",
+          "Rota hava kosullarina gore degisebilir",
+          "Maksimum kapasite asklamalidir"
+        ]
+      },
+      "carTerms": {
+        "title": "7. Arac Kiralama Kosullari",
+        "items": [
+          "Minimum yas: 2+ yil suruculuk deneyimiyle 21 yas",
+          "Gecerli surucu belgesi ve kredi karti gereklidir",
+          "Dolu-dolu yakit politikasi",
+          "Hasar derhal bildirilmelidir"
+        ]
+      },
+      "changes": {
+        "title": "8. Kosullardaki Degisiklikler",
+        "content": "Bu kosullari istedigimiz zaman degistirme hakkini sakli tutuyoruz. Hizmetlerimizi kullanmaya devam etmeniz, guncellenmis kosullarin kabulü anlamina gelir."
+      },
+      "contact": {
+        "title": "9. Iletisim Bilgileri"
+      }
+    }
+  },
+  "cookies": {
+    "title": "Cerez Politikasi",
+    "lastUpdated": "Son guncelleme: Kasim 2024",
+    "phone": "Telefon",
+    "sections": {
+      "what": {
+        "title": "Cerezler Nedir?",
+        "content": "Cerezler, web sitemizi ziyaret ettiginizde cihazinizda depolanan kucuk metin dosyalaridir. Daha iyi bir tarama deneyimi sunmamiza ve sitemizi nasil kullandiginizi anlamamiza yardimci olurlar."
+      },
+      "types": {
+        "title": "Kullandigimiz Cerez Turleri",
+        "essential": {
+          "title": "Zorunlu Cerezler",
+          "content": "Bu cerezler web sitesinin duzgun calisması icin gereklidir. Sayfa gezintisi ve guvenli alanlara erisim gibi temel ozellikleri etkinlestirir."
+        },
+        "analytics": {
+          "title": "Analitik Cerezler",
+          "content": "Ziyaretcilerin web sitemizle nasil etkilestigini anlamak icin Google Analytics kullaniyoruz. Bu, icerigimizi ve kullanici deneyimini iyilestirmemize yardimci olur."
+        },
+        "marketing": {
+          "title": "Pazarlama Cerezleri",
+          "content": "Bu cerezler, daha alakali reklamlar sunmamiza yardimci olmak icin cevrimici aktivitenizi izler. Reklam ortaklarimiz tarafindan ayarlanabilir."
+        },
+        "functional": {
+          "title": "Islevsel Cerezler",
+          "content": "Bu cerezler, gelistirilmis ozellikler saglamak icin tercihlerinizi (dil gibi) hatirlar."
+        }
+      },
+      "managing": {
+        "title": "Cerezleri Yonetme",
+        "intro": "Cerezleri tarayici ayarlarinizdan kontrol edebilirsiniz:",
+        "browsers": [
+          "Chrome: Ayarlar > Gizlilik ve Guvenlik > Cerezler",
+          "Firefox: Secenekler > Gizlilik ve Guvenlik > Cerezler",
+          "Safari: Tercihler > Gizlilik > Cerezler",
+          "Edge: Ayarlar > Gizlilik > Cerezler"
+        ],
+        "note": "Not: Cerezleri devre disi birakmak web sitemizdeki deneyiminizi etkileyebilir."
+      },
+      "thirdParty": {
+        "title": "Ucuncu Taraf Cerezleri",
+        "intro": "Web sitemiz asagidaki ucuncu taraf hizmetlerinden cerezler icerebilir:",
+        "services": [
+          "Google Analytics (analitik)",
+          "Google Maps (islevsellik)",
+          "Facebook Pixel (pazarlama)",
+          "Tawk.to (canli sohbet)"
+        ]
+      },
+      "updates": {
+        "title": "Bu Politikadaki Guncellemeler",
+        "content": "Bu Cerez Politikasini zaman zaman guncelleyebiliriz. En son surum her zaman bu sayfada mevcut olacaktir."
+      },
+      "contact": {
+        "title": "Bize Ulasin",
+        "intro": "Cerez kullanimımiz hakkinda sorulariniz varsa:"
+      }
+    }
+  },
+  "common": {
+    "days": "gün",
+    "day": "gün",
+    "nights": "gece",
+    "night": "gece",
+    "person": "kişi",
+    "people": "kişi",
+    "from": "Başlayan",
+    "to": "Hedef",
+    "learnMore": "Daha Fazla",
+    "viewDetails": "Detayları Gör",
+    "bookNow": "Hemen Rezerve Et",
+    "requestQuote": "Teklif İste",
+    "loading": "Yükleniyor...",
+    "error": "Bir hata oluştu",
+    "tryAgain": "Tekrar Dene",
+    "backToHome": "Ana Sayfaya Dön",
+    "seeAll": "Tümünü Gör",
+    "readMore": "Devamını Oku",
+    "share": "Paylaş",
+    "download": "İndir",
+    "print": "Yazdır",
+    "email": "E-posta",
+    "phone": "Telefon",
+    "address": "Adres",
+    "whatsapp": "WhatsApp",
+    "send": "Gönder",
+    "submit": "Gönder",
+    "cancel": "İptal",
+    "close": "Kapat",
+    "yes": "Evet",
+    "no": "Hayır",
+    "or": "veya"
+  },
+  "errors": {
+    "404": {
+      "title": "Sayfa Bulunamadı",
+      "description": "Aradığınız sayfa mevcut değil veya taşınmış.",
+      "backHome": "Ana Sayfaya Dön"
+    },
+    "500": {
+      "title": "Sunucu Hatası",
+      "description": "Bir şeyler ters gitti. Lütfen daha sonra tekrar deneyin."
+    }
+  }
+}

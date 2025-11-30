@@ -1,0 +1,1175 @@
+{
+  "metadata": {
+    "title": "Light Tours - Yacht Charter, Tours & Travel Services in Turkey",
+    "description": "Premium yacht charters, guided tours, car rental and transfer services in Fethiye, Turkey. Experience the Turkish Riviera since 1988."
+  },
+  "nav": {
+    "home": "Home",
+    "yachtCharter": "Yacht Charter",
+    "cabinCharter": "Cabin Charter",
+    "tours": "Tours",
+    "carRental": "Car Rental",
+    "transfer": "Transfer",
+    "contact": "Contact",
+    "about": "About",
+    "faq": "FAQ",
+    "blog": "Blog",
+    "getQuote": "Get Quote"
+  },
+  "hero": {
+    "badge": "Serving travelers since 1988",
+    "title": "Discover the Magic of",
+    "titleHighlight": "Turkish Riviera",
+    "subtitle": "Luxury yacht charters, unforgettable tours, and seamless travel services. Experience the beauty of Fethiye and beyond with {years} years of expertise.",
+    "exploreServices": "Explore Services",
+    "getFreeQuote": "Get Free Quote",
+    "cta": {
+      "explore": "Explore Services",
+      "quote": "Get Free Quote",
+      "whatsappMessage": "Hello! I am interested in your travel services. Can you help me plan my trip to Turkey?"
+    }
+  },
+  "stats": {
+    "years": "Years Experience",
+    "guests": "Happy Guests",
+    "tours": "Tours",
+    "yachts": "Yachts",
+    "happyGuests": "Happy Guests",
+    "yearsExperience": "Years Experience"
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "What We Offer",
+    "description": "From luxury yacht charters to guided tours, we provide comprehensive travel services to make your Turkish adventure unforgettable.",
+    "learnMore": "Learn More",
+    "items": {
+      "yacht-charter": {
+        "title": "Private Yacht Charter",
+        "description": "Luxury gulet charters along the stunning Turkish coastline"
+      },
+      "cabin-charter": {
+        "title": "Cabin Charter",
+        "description": "Join a shared blue cruise for an affordable sailing experience"
+      },
+      "tours": {
+        "title": "Tours & Excursions",
+        "description": "Guided day trips to ancient ruins, natural wonders, and hidden gems"
+      },
+      "car-rental": {
+        "title": "Car Rental",
+        "description": "Quality vehicles for exploring Turkey at your own pace"
+      },
+      "transfer": {
+        "title": "Transfer Services",
+        "description": "Airport transfers and private transportation throughout Turkey"
+      }
+    }
+  },
+  "tours": {
+    "title": "Popular Tours & Cruises",
+    "subtitle": "Explore Turkey",
+    "description": "Discover our most loved experiences, from day trips to ancient ruins to week-long blue cruises along the turquoise coast.",
+    "featuredCruises": "Featured Blue Cruises",
+    "popularDayTours": "Popular Day Tours",
+    "viewAll": "View All Tours",
+    "popular": "POPULAR",
+    "from": "From",
+    "person": "person",
+    "perPerson": "/person",
+    "viewDetails": "View Details",
+    "learnMore": "Learn More"
+  },
+  "quote": {
+    "title": "Request a Free Quote",
+    "subtitle": "Get Started",
+    "description": "Tell us about your dream trip and get a personalized quote within 2 hours.",
+    "yachtDescription": "We'll suggest the perfect blue cruise route for you!",
+    "aiDescription": "Our AI can also suggest the perfect itinerary!",
+    "yourInfo": "Your Information",
+    "fullName": "Full Name",
+    "email": "Email Address",
+    "phone": "Phone / WhatsApp",
+    "serviceType": "Service Type",
+    "serviceTypes": {
+      "yachtCharter": "Private Yacht Charter",
+      "cabinCharter": "Cabin Charter (Blue Cruise)",
+      "dayTour": "Day Tour",
+      "multiDay": "Multi-day Tour",
+      "transfer": "Transfer Service",
+      "carRental": "Car Rental"
+    },
+    "destinations": "Destinations",
+    "cruiseDestinations": "Cruise Destinations",
+    "tourDestinations": "Tour Destinations",
+    "selectMultiple": "(Select multiple)",
+    "destinationHint": "Select your preferred stops and we'll suggest the best cruise route!",
+    "tripDetails": "Trip Details",
+    "startDate": "Start Date",
+    "duration": {
+      "4nights": "4 Nights",
+      "7nights": "7 Nights",
+      "8nights": "8 Nights",
+      "10nights": "10 Nights",
+      "14nights": "14 Nights"
+    },
+    "cruiseDuration": "Cruise Duration",
+    "travelers": "Travelers",
+    "budget": {
+      "budget": "Budget-friendly",
+      "moderate": "Moderate",
+      "luxury": "Luxury"
+    },
+    "budgetOptions": {
+      "budget": "Budget-friendly",
+      "moderate": "Moderate",
+      "luxury": "Luxury"
+    },
+    "interests": {
+      "historyCulture": "History & Culture",
+      "natureHiking": "Nature & Hiking",
+      "beachSwimming": "Beach & Swimming",
+      "foodCuisine": "Food & Cuisine",
+      "adventureSports": "Adventure Sports",
+      "photography": "Photography",
+      "relaxation": "Relaxation"
+    },
+    "interestOptions": {
+      "history": "History & Culture",
+      "nature": "Nature & Hiking",
+      "beach": "Beach & Swimming",
+      "food": "Food & Cuisine",
+      "adventure": "Adventure Sports",
+      "photography": "Photography",
+      "relaxation": "Relaxation"
+    },
+    "additionalInfo": "Additional Information",
+    "additionalPlaceholder": "Tell us more about your trip expectations, special requests, dietary requirements, etc.",
+    "cruisePlaceholder": "Tell us about any special requirements (dietary needs, celebrations, water sports interests, etc.)",
+    "findCruiseRoute": "Find Cruise Route",
+    "getAiSuggestion": "Get AI Suggestion",
+    "sendWhatsApp": "Send Quote Request via WhatsApp",
+    "sending": "Sending...",
+    "success": "Your request has been sent! We'll get back to you within 2 hours.",
+    "recommendedRoute": "Recommended Cruise Route",
+    "findingRoute": "Finding the perfect route...",
+    "noRouteFound": "No matching cruise route found. Contact us for a custom itinerary!",
+    "dayByDay": "Day-by-Day Itinerary",
+    "swimStops": "swim stops",
+    "included": "Included",
+    "notIncluded": "Not Included",
+    "totalFor": "Total for {travelers} travelers",
+    "aiItinerary": "AI-Generated Tour Itinerary",
+    "generatingItinerary": "Generating your personalized itinerary...",
+    "estimatedPrice": "Estimated Total Price",
+    "failedGenerate": "Failed to generate itinerary.",
+    "aiHint": "Our AI can suggest the perfect itinerary!",
+    "cruiseHint": "We'll suggest the perfect blue cruise route for you!",
+    "sections": {
+      "personalInfo": "Your Information",
+      "serviceType": "Service Type",
+      "cruiseDestinations": "Cruise Destinations",
+      "tourDestinations": "Tour Destinations",
+      "tripDetails": "Trip Details",
+      "interests": "Your Interests",
+      "additionalInfo": "Additional Information"
+    },
+    "fields": {
+      "fullName": "Full Name",
+      "email": "Email Address",
+      "phone": "Phone / WhatsApp",
+      "startDate": "Start Date",
+      "duration": "Duration",
+      "cruiseDuration": "Cruise Duration",
+      "travelers": "Travelers",
+      "budgetLevel": "Budget Level"
+    },
+    "placeholders": {
+      "cruiseMessage": "Tell us about any special requirements (dietary needs, celebrations, water sports interests, etc.)",
+      "tourMessage": "Tell us more about your trip expectations, special requests, dietary requirements, etc."
+    },
+    "cruise": {
+      "recommendedRoute": "Recommended Cruise Route",
+      "finding": "Finding the perfect route...",
+      "dayByDay": "Day-by-Day Itinerary",
+      "swimStops": "swim stops",
+      "included": "Included",
+      "notIncluded": "Not Included",
+      "totalFor": "Total for {count} travelers",
+      "noRoute": "No matching cruise route found. Contact us for a custom itinerary!"
+    },
+    "ai": {
+      "title": "AI-Generated Tour Itinerary",
+      "generating": "Generating your personalized itinerary...",
+      "estimatedPrice": "Estimated Total Price",
+      "meals": "Meals",
+      "failed": "Failed to generate itinerary."
+    },
+    "buttons": {
+      "findCruiseRoute": "Find Cruise Route",
+      "getAiSuggestion": "Get AI Suggestion",
+      "sendWhatsApp": "Send Quote Request via WhatsApp",
+      "sending": "Sending..."
+    },
+    "whatsapp": {
+      "greeting": "Hello Light Tours!",
+      "request": "I would like to request a quote for the following",
+      "name": "Name",
+      "email": "Email",
+      "service": "Service",
+      "destinations": "Destinations",
+      "date": "Date",
+      "duration": "Duration",
+      "travelers": "Travelers",
+      "budget": "Budget",
+      "interests": "Interests",
+      "interestedRoute": "Interested in route",
+      "totalPrice": "Total price",
+      "additionalInfo": "Additional information"
+    },
+    "errors": {
+      "selectDestination": "Please select at least one destination",
+      "enterNameEmail": "Please enter your name and email"
+    },
+    "cruiseDestinationHint": "Select your preferred stops and we'll suggest the best cruise route!",
+    "day": "Day",
+    "days": "days",
+    "person": "person",
+    "people": "people",
+    "from": "From",
+    "perPerson": "per person"
+  },
+  "trust": {
+    "title": "Why Choose Light Tours?",
+    "subtitle": "Trusted by Thousands",
+    "description": "With {years}+ years of experience, we've helped thousands of travelers discover the magic of Turkey.",
+    "licensedAgency": "Licensed Travel Agency",
+    "cta": {
+      "title": "Ready to Plan Your Trip?",
+      "subtitle": "Contact us now for a personalized travel experience",
+      "button": "Chat on WhatsApp",
+      "whatsappMessage": "Hello! I saw your website and I'm interested in planning a trip to Turkey. Can you help?"
+    },
+    "items": {
+      "licensed": {
+        "title": "Licensed & Insured",
+        "description": "TURSAB certified tour operator with full insurance coverage"
+      },
+      "experience": {
+        "title": "37+ Years Experience",
+        "description": "Serving happy travelers since 1988"
+      },
+      "support": {
+        "title": "24/7 Support",
+        "description": "Always here when you need us"
+      },
+      "bestPrice": {
+        "title": "Best Price Guarantee",
+        "description": "Competitive prices with no hidden fees"
+      }
+    }
+  },
+  "footer": {
+    "description": "Your trusted travel partner for {years} years. Specializing in luxury yacht charters, guided tours, and unforgettable Turkish experiences.",
+    "quickLinks": "Quick Links",
+    "services": "Services",
+    "contact": "Contact",
+    "legal": "Legal",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Policy",
+    "allRights": "All rights reserved.",
+    "tursabMember": "TURSAB Member",
+    "since": "Since 1988",
+    "licensed": "Licensed Travel Agency",
+    "links": {
+      "about": "About Us",
+      "fleet": "Our Fleet",
+      "tours": "Tours",
+      "blog": "Blog",
+      "faq": "FAQ",
+      "contact": "Contact"
+    },
+    "popularTours": "Popular Tours",
+    "tours": {
+      "fethiyeKekova": "Fethiye-Kekova Cruise",
+      "twelveIslands": "12 Islands Tour",
+      "pamukkale": "Pamukkale Day Trip",
+      "dalyan": "Dalyan Mud Bath",
+      "paragliding": "Paragliding"
+    },
+    "contactUs": "Contact Us",
+    "copyright": "© {year} Light Tours. All rights reserved."
+  },
+  "contact": {
+    "hero": {
+      "subtitle": "Get in Touch",
+      "title": "Contact Us",
+      "description": "Have questions? We're here to help you plan your perfect trip."
+    },
+    "info": {
+      "title": "Contact Information",
+      "description": "Reach out to us through any of the following channels. We typically respond within 2 hours during business hours.",
+      "phone": "Phone",
+      "whatsapp": "WhatsApp",
+      "whatsappDesc": "Chat with us instantly",
+      "whatsappNote": "Quick responses, 24/7",
+      "email": "Email",
+      "office": "Office"
+    },
+    "hours": {
+      "title": "Working Hours",
+      "weekdays": "Monday - Friday",
+      "saturday": "Saturday",
+      "sunday": "Sunday",
+      "note": "* WhatsApp support available 24/7 for urgent inquiries"
+    },
+    "form": {
+      "title": "Send Us a Message",
+      "name": "Full Name",
+      "email": "Email",
+      "phone": "Phone",
+      "subject": "Subject",
+      "selectSubject": "Select a subject",
+      "message": "Message",
+      "messagePlaceholder": "Tell us about your travel plans...",
+      "submit": "Send Message via WhatsApp",
+      "subjects": {
+        "yacht": "Yacht Charter Inquiry",
+        "cabin": "Cabin Charter Booking",
+        "tour": "Day Tour Booking",
+        "car": "Car Rental",
+        "transfer": "Transfer Service",
+        "custom": "Custom Package",
+        "other": "Other"
+      }
+    },
+    "map": {
+      "title": "Find Us"
+    }
+  },
+  "yachtCharter": {
+    "hero": {
+      "subtitle": "Private Charters",
+      "title": "Yacht Charter",
+      "description": "Discover the Turkish coastline aboard our luxury fleet. Private yacht charters tailored to your dream vacation."
+    },
+    "features": {
+      "title": "Why Choose Private Charter?",
+      "privacy": {
+        "title": "Complete Privacy",
+        "desc": "The entire yacht is yours"
+      },
+      "flexibility": {
+        "title": "Full Flexibility",
+        "desc": "Your route, your schedule"
+      },
+      "service": {
+        "title": "Personalized Service",
+        "desc": "Dedicated crew for your group"
+      },
+      "cuisine": {
+        "title": "Gourmet Cuisine",
+        "desc": "Chef-prepared meals aboard"
+      }
+    },
+    "fleet": {
+      "title": "Our Fleet",
+      "subtitle": "Choose from our selection of meticulously maintained yachts, each offering a unique experience on the turquoise waters."
+    },
+    "cta": {
+      "title": "Can't Find What You're Looking For?",
+      "subtitle": "We have access to over 100 yachts. Tell us your requirements and we'll find the perfect match.",
+      "contact": "Contact Us",
+      "whatsapp": "WhatsApp Us"
+    },
+    "whyChoose": {
+      "title": "Why Choose Private Charter?",
+      "fleet": {
+        "title": "Premium Fleet",
+        "desc": "Hand-picked luxury yachts"
+      },
+      "crew": {
+        "title": "Expert Crew",
+        "desc": "Professional & experienced"
+      },
+      "routes": {
+        "title": "Custom Routes",
+        "desc": "Your itinerary, your way"
+      },
+      "service": {
+        "title": "Full Service",
+        "desc": "Gourmet dining included"
+      }
+    },
+    "specs": {
+      "length": "Length",
+      "cabins": "Cabins",
+      "guests": "Guests"
+    },
+    "inquire": "Inquire Now"
+  },
+  "cabinCharter": {
+    "hero": {
+      "subtitle": "Blue Cruise",
+      "title": "Cabin Charter Cruises",
+      "description": "Share the adventure! Book a cabin and sail with fellow travelers on our scheduled blue cruise departures along the Turkish coast."
+    },
+    "howItWorks": {
+      "title": "How Cabin Charter Works",
+      "step1": {
+        "step": "1",
+        "title": "Choose Route",
+        "desc": "Select from our popular cruise routes"
+      },
+      "step2": {
+        "step": "2",
+        "title": "Pick Cabin",
+        "desc": "Choose your preferred cabin type"
+      },
+      "step3": {
+        "step": "3",
+        "title": "Select Date",
+        "desc": "Find a departure that suits you"
+      },
+      "step4": {
+        "step": "4",
+        "title": "Set Sail!",
+        "desc": "Board and enjoy your blue cruise"
+      }
+    },
+    "routes": {
+      "title": "Popular Routes",
+      "subtitle": "Weekly departures from May to October. All-inclusive packages with meals, crew, and activities.",
+      "popular": "POPULAR",
+      "from": "From",
+      "perPerson": "/person",
+      "bookNow": "Book Now"
+    },
+    "included": {
+      "title": "What's Included",
+      "meals": {
+        "title": "Full Board Meals",
+        "desc": "Breakfast, lunch & dinner"
+      },
+      "accommodation": {
+        "title": "Accommodation",
+        "desc": "Ensuite cabin with A/C"
+      },
+      "crew": {
+        "title": "Professional Crew",
+        "desc": "Captain, cook & deckhands"
+      },
+      "fuel": {
+        "title": "Fuel & Port Fees",
+        "desc": "All charges included"
+      },
+      "activities": {
+        "title": "Water Activities",
+        "desc": "Snorkeling, kayaking & more"
+      },
+      "cleaning": {
+        "title": "Daily Cleaning",
+        "desc": "Cabin & bathroom service"
+      },
+      "beverages": {
+        "title": "Beverages",
+        "desc": "Tea, coffee & water"
+      },
+      "memories": {
+        "title": "Memories",
+        "desc": "Photo opportunities at every stop"
+      }
+    },
+    "cta": {
+      "title": "Ready for Your Blue Cruise Adventure?",
+      "subtitle": "Contact us for current availability and special group rates.",
+      "button": "Get a Free Quote"
+    },
+    "cabinTypes": {
+      "title": "Cabin Types",
+      "subtitle": "All cabins include ensuite bathroom, air conditioning, and daily housekeeping.",
+      "standard": {
+        "name": "Standard Cabin",
+        "desc": "Comfortable twin or double cabin with ensuite bathroom",
+        "price": "From 350/person"
+      },
+      "deluxe": {
+        "name": "Deluxe Cabin",
+        "desc": "Larger cabin with premium amenities and sea view",
+        "price": "From 450/person"
+      },
+      "master": {
+        "name": "Master Suite",
+        "desc": "Spacious suite with private balcony and luxury finishes",
+        "price": "From 600/person"
+      }
+    }
+  },
+  "toursPage": {
+    "hero": {
+      "subtitle": "Explore Turkey",
+      "title": "Tours & Excursions",
+      "description": "From ancient wonders to thrilling adventures, discover the best of Turkey with our expertly guided tours."
+    },
+    "tabs": {
+      "dayTours": "Day Tours",
+      "activities": "Activities",
+      "blueCruises": "Blue Cruises"
+    },
+    "dayTours": {
+      "title": "Day Tours",
+      "subtitle": "Explore Turkey's most iconic destinations with our guided day tours. All tours include transportation, guide, and entrance fees."
+    },
+    "activities": {
+      "title": "Activities & Adventures",
+      "subtitle": "Add some excitement to your vacation with our range of activities, from paragliding over the Blue Lagoon to diving in crystal waters."
+    },
+    "adventure": "ADVENTURE",
+    "bookTour": "Book This Tour",
+    "bookNow": "Book Now",
+    "whyBook": {
+      "title": "Why Book With Light Tours?",
+      "bestPrice": {
+        "title": "Best Price Guarantee",
+        "desc": "We match any comparable offer"
+      },
+      "guides": {
+        "title": "Expert Local Guides",
+        "desc": "Licensed, multilingual guides"
+      },
+      "transport": {
+        "title": "Comfortable Transport",
+        "desc": "Modern, air-conditioned vehicles"
+      },
+      "groups": {
+        "title": "Small Groups",
+        "desc": "Personalized attention"
+      }
+    },
+    "cta": {
+      "title": "Can't Decide? Let Us Help!",
+      "subtitle": "Our travel experts can create a custom itinerary based on your interests, time, and budget.",
+      "button": "Get Custom Itinerary"
+    }
+  },
+  "carRental": {
+    "hero": {
+      "subtitle": "Freedom to Explore",
+      "title": "Car Rental",
+      "description": "Explore Fethiye and beyond at your own pace. Quality vehicles, competitive prices, and hassle-free service."
+    },
+    "categories": {
+      "economy": "Economy",
+      "compact": "Compact",
+      "suv": "SUV",
+      "premium": "Premium"
+    },
+    "included": {
+      "title": "All Rentals Include",
+      "insurance": "Full insurance coverage",
+      "unlimited": "Unlimited mileage",
+      "support": "24/7 roadside assistance",
+      "delivery": "Airport/hotel delivery"
+    },
+    "cta": {
+      "title": "Need a Custom Quote?",
+      "subtitle": "Long-term rentals, special requests, or group bookings? We've got you covered.",
+      "button": "Get Custom Quote"
+    },
+    "booking": {
+      "pickup": "Pickup Location",
+      "pickupDate": "Pickup Date",
+      "returnDate": "Return Date",
+      "checkAvailability": "Check Availability",
+      "locations": {
+        "airport": "Dalaman Airport",
+        "office": "Fethiye Office",
+        "hotel": "Hotel Delivery"
+      }
+    },
+    "features": {
+      "selection": {
+        "title": "Wide Selection",
+        "desc": "From economy to luxury"
+      },
+      "pickup": {
+        "title": "Flexible Pickup",
+        "desc": "Airport, hotel, or office"
+      },
+      "insurance": {
+        "title": "Full Insurance",
+        "desc": "Comprehensive coverage included"
+      },
+      "cancel": {
+        "title": "Free Cancellation",
+        "desc": "Up to 24h before pickup"
+      },
+      "fuel": {
+        "title": "Fuel Policy",
+        "desc": "Full-to-full, no surprises"
+      },
+      "support": {
+        "title": "24/7 Support",
+        "desc": "Roadside assistance included"
+      }
+    },
+    "fleet": {
+      "title": "Our Fleet",
+      "subtitle": "All vehicles are well-maintained, fully insured, and come with 24/7 roadside assistance.",
+      "seats": "seats",
+      "book": "Book"
+    },
+    "info": {
+      "title": "Rental Information",
+      "requirements": {
+        "title": "Requirements",
+        "items": [
+          "Valid driving license (min. 2 years)",
+          "Minimum age: 21 years",
+          "Credit card for deposit",
+          "Valid passport or ID"
+        ]
+      },
+      "insurance": {
+        "title": "Insurance",
+        "items": [
+          "Full CDW coverage",
+          "Third party liability",
+          "Theft protection",
+          "24/7 roadside assistance"
+        ]
+      },
+      "extras": {
+        "title": "Extras",
+        "items": [
+          "GPS navigation: 5/day",
+          "Child seat: 5/day",
+          "Additional driver: 5/day",
+          "Cross-border permit: 15"
+        ]
+      }
+    }
+  },
+  "transfer": {
+    "hero": {
+      "subtitle": "Comfortable Travel",
+      "title": "Transfer Services",
+      "description": "Reliable airport and hotel transfer services. Start your holiday stress-free with our professional drivers."
+    },
+    "services": {
+      "title": "Our Services",
+      "airport": {
+        "title": "Airport Transfers",
+        "desc": "To/from Dalaman and Antalya airports"
+      },
+      "hotel": {
+        "title": "Hotel Transfers",
+        "desc": "Between hotels and attractions"
+      },
+      "vip": {
+        "title": "VIP Service",
+        "desc": "Luxury vehicles with premium amenities"
+      },
+      "group": {
+        "title": "Group Transfers",
+        "desc": "Comfortable minibuses for larger groups"
+      }
+    },
+    "vehicles": {
+      "title": "Our Vehicles",
+      "sedan": "Sedan (1-3 passengers)",
+      "minivan": "Minivan (4-7 passengers)",
+      "minibus": "Minibus (8-15 passengers)",
+      "bus": "Bus (16+ passengers)"
+    },
+    "cta": {
+      "title": "Book Your Transfer",
+      "subtitle": "Reliable, on-time service guaranteed.",
+      "button": "Get a Quote"
+    },
+    "booking": {
+      "from": "From",
+      "to": "To",
+      "date": "Date",
+      "passengers": "Passengers",
+      "getQuote": "Get Quote"
+    },
+    "features": {
+      "meet": {
+        "title": "Meet & Greet",
+        "desc": "Driver waiting at arrivals"
+      },
+      "tracking": {
+        "title": "Flight Tracking",
+        "desc": "We monitor your flight"
+      },
+      "support": {
+        "title": "24/7 Support",
+        "desc": "Always available"
+      },
+      "fixed": {
+        "title": "Fixed Prices",
+        "desc": "No hidden charges"
+      }
+    },
+    "destinations": {
+      "title": "Popular Routes",
+      "dalaman": "Dalaman Airport",
+      "antalya": "Antalya Airport",
+      "fethiye": "Fethiye",
+      "oludeniz": "Oludeniz",
+      "kas": "Kas",
+      "kalkan": "Kalkan",
+      "marmaris": "Marmaris"
+    }
+  },
+  "about": {
+    "hero": {
+      "subtitle": "Our Story",
+      "title": "About Light Tours",
+      "description": "{years} years of creating unforgettable travel experiences in the heart of the Turkish Riviera."
+    },
+    "story": {
+      "badge": "Since 1988",
+      "title": "Our Story",
+      "p1": "Light Tours began in 1988 as a small, family-run operation in Fethiye. What started as a passion for sharing the beauty of the Turkish coastline with visitors has grown into one of the region's most trusted travel agencies.",
+      "p2": "Our founder's vision was simple: provide exceptional service, maintain the highest standards, and treat every guest like family. This philosophy has guided us for over three decades.",
+      "p3": "Today, with a fleet of over 20 yachts and a team of dedicated professionals, we continue to create unforgettable experiences for travelers from around the world.",
+      "license": "License",
+      "yearsExcellence": "Years of Excellence"
+    },
+    "timeline": {
+      "title": "Our Journey",
+      "items": {
+        "1988": {
+          "title": "The Beginning",
+          "desc": "Founded as a small family office in Fethiye, offering local boat tours."
+        },
+        "1995": {
+          "title": "Fleet Expansion",
+          "desc": "Acquired our first gulet and began offering private yacht charters."
+        },
+        "2002": {
+          "title": "TURSAB Certification",
+          "desc": "Received official travel agency license, expanding our service range."
+        },
+        "2010": {
+          "title": "International Recognition",
+          "desc": "Started serving international clients from Europe and beyond."
+        },
+        "2018": {
+          "title": "30 Years Celebration",
+          "desc": "Celebrated three decades with a fleet of 20+ yachts."
+        },
+        "2024": {
+          "title": "Digital Transformation",
+          "desc": "Launched AI-powered booking system for personalized travel planning."
+        }
+      }
+    },
+    "values": {
+      "title": "Our Values",
+      "subtitle": "The principles that guide everything we do",
+      "excellence": {
+        "title": "Excellence",
+        "desc": "We strive for perfection in every detail of your journey"
+      },
+      "trust": {
+        "title": "Trust",
+        "desc": "Building lasting relationships through honesty and reliability"
+      },
+      "innovation": {
+        "title": "Innovation",
+        "desc": "Embracing technology to enhance your travel experience"
+      },
+      "sustainability": {
+        "title": "Sustainability",
+        "desc": "Committed to responsible tourism and environmental protection"
+      }
+    },
+    "team": {
+      "title": "Meet Our Team",
+      "subtitle": "Dedicated professionals committed to making your trip unforgettable"
+    },
+    "cta": {
+      "title": "Ready to Start Your Adventure?",
+      "subtitle": "Let our {years} years of experience work for you.",
+      "contact": "Contact Us",
+      "quote": "Get a Quote"
+    }
+  },
+  "faq": {
+    "hero": {
+      "subtitle": "Help Center",
+      "title": "Frequently Asked Questions",
+      "description": "Find answers to common questions about our services, bookings, and travel in Turkey."
+    },
+    "categories": {
+      "general": "General",
+      "booking": "Booking & Payment",
+      "yachts": "Yacht Charters",
+      "tours": "Tours & Activities",
+      "yachtCharter": {
+        "title": "Yacht Charter",
+        "questions": [
+          {
+            "q": "What's included in a yacht charter?",
+            "a": "Private charters include the yacht, crew (captain, cook, deckhands), all meals, fuel, port fees, water sports equipment, and bedding. Alcoholic beverages are typically extra."
+          },
+          {
+            "q": "Do I need sailing experience?",
+            "a": "No! Our yachts come with professional crew who handle all sailing. You're free to relax, swim, and enjoy the journey."
+          },
+          {
+            "q": "What should I pack for a yacht trip?",
+            "a": "Pack light, casual clothing, swimwear, sunscreen, hat, and soft-soled shoes for the boat. We provide towels, snorkeling gear, and basic toiletries."
+          },
+          {
+            "q": "Can the itinerary be customized?",
+            "a": "Absolutely! Private charters offer full flexibility. Discuss your preferences with us and we'll create a personalized route based on weather and your interests."
+          }
+        ]
+      },
+      "cabinCharter": {
+        "title": "Cabin Charter",
+        "questions": [
+          {
+            "q": "What's the difference between cabin and yacht charter?",
+            "a": "Cabin charter means you book individual cabins and share the boat with other travelers. It's more affordable and a great way to meet people. Yacht charter is private - you rent the entire boat."
+          },
+          {
+            "q": "Who will I share the boat with?",
+            "a": "Cabin charters typically host 8-16 guests from various countries. It's a social experience perfect for solo travelers or couples who enjoy meeting new people."
+          },
+          {
+            "q": "Are meals included in cabin charter?",
+            "a": "Yes, all cabin charters are full-board including breakfast, lunch, and dinner prepared by our onboard chef. Special dietary requirements can be accommodated with advance notice."
+          }
+        ]
+      },
+      "dayTours": {
+        "title": "Day Tours",
+        "questions": [
+          {
+            "q": "What's included in day tours?",
+            "a": "All day tours include hotel pickup/drop-off, transportation, professional guide, entrance fees, and lunch (where specified). Check individual tour descriptions for specifics."
+          },
+          {
+            "q": "What languages are tours available in?",
+            "a": "Our guides speak English, German, Russian, and Turkish. Other languages may be available on request with advance notice."
+          },
+          {
+            "q": "Are tours suitable for children?",
+            "a": "Most tours are family-friendly. Some activities like paragliding have age restrictions. Contact us for specific tour requirements."
+          }
+        ]
+      },
+      "transfers": {
+        "title": "Transfers & Car Rental",
+        "questions": [
+          {
+            "q": "Do you track flights for airport transfers?",
+            "a": "Yes, we monitor all incoming flights. If your flight is delayed, your driver will adjust accordingly at no extra charge."
+          },
+          {
+            "q": "What documents do I need to rent a car?",
+            "a": "You'll need a valid driving license (held for minimum 2 years), passport or ID, and a credit card for the security deposit. Minimum age is 21."
+          },
+          {
+            "q": "Is insurance included with car rental?",
+            "a": "Yes, all rentals include comprehensive insurance (CDW) and third-party liability. Optional extras like GPS and child seats are available."
+          }
+        ]
+      }
+    },
+    "cta": {
+      "title": "Still Have Questions?",
+      "subtitle": "Our team is ready to help you with any questions about your upcoming trip.",
+      "button": "Contact Us",
+      "contact": "Contact Us",
+      "whatsapp": "WhatsApp Us"
+    }
+  },
+  "blog": {
+    "hero": {
+      "subtitle": "Travel Blog",
+      "title": "Travel Tips & Inspiration",
+      "description": "Discover insider tips, destination guides, and travel inspiration for your Turkish adventure."
+    },
+    "readMore": "Read More",
+    "categories": {
+      "all": "All",
+      "destinations": "Destinations",
+      "tips": "Travel Tips",
+      "stories": "Stories",
+      "travelGuide": "Travel Guide",
+      "tours": "Tours",
+      "yachtCharter": "Yacht Charter",
+      "activities": "Activities",
+      "dayTrips": "Day Trips",
+      "foodCulture": "Food & Culture"
+    },
+    "featured": "Featured",
+    "minRead": "min read",
+    "comingSoon": "Coming Soon",
+    "loadMore": "Load More Articles",
+    "posts": {
+      "best-time-visit-fethiye": {
+        "title": "Best Time to Visit Fethiye: A Season-by-Season Guide",
+        "excerpt": "Discover when to visit Fethiye for the perfect weather, fewer crowds, and the best experiences.",
+        "date": "November 28, 2024"
+      },
+      "12-islands-tour-guide": {
+        "title": "12 Islands Boat Tour: Everything You Need to Know",
+        "excerpt": "The ultimate guide to Fethiye's famous 12 Islands boat tour. What to expect and insider tips.",
+        "date": "November 25, 2024"
+      },
+      "blue-cruise-vs-yacht-charter": {
+        "title": "Blue Cruise vs Yacht Charter: Which is Right for You?",
+        "excerpt": "Cabin charter or private yacht? We break down the differences and costs.",
+        "date": "November 20, 2024"
+      },
+      "paragliding-oludeniz": {
+        "title": "Paragliding in Oludeniz: A Complete Guide",
+        "excerpt": "Soar over the famous Blue Lagoon from Babadag mountain.",
+        "date": "November 15, 2024"
+      },
+      "dalyan-mud-baths": {
+        "title": "Dalyan Day Trip: Rock Tombs, Turtles & Mud Baths",
+        "excerpt": "Explore the ancient Lycian rock tombs and swim with Caretta Caretta turtles.",
+        "date": "November 10, 2024"
+      },
+      "turkish-cuisine-fethiye": {
+        "title": "10 Must-Try Turkish Foods in Fethiye",
+        "excerpt": "From fresh seafood to traditional kebabs, discover the best local dishes.",
+        "date": "November 5, 2024"
+      }
+    },
+    "newsletter": {
+      "title": "Subscribe to Our Newsletter",
+      "subtitle": "Get travel tips, special offers, and destination inspiration delivered to your inbox.",
+      "placeholder": "Enter your email",
+      "button": "Subscribe"
+    }
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated: November 2024",
+    "phone": "Phone",
+    "sections": {
+      "collect": {
+        "title": "1. Information We Collect",
+        "intro": "Light Tours Travel Agency collects information you provide directly to us, including:",
+        "items": [
+          "Name, email address, phone number",
+          "Billing and payment information",
+          "Travel preferences and booking details",
+          "Communications with us"
+        ]
+      },
+      "use": {
+        "title": "2. How We Use Your Information",
+        "intro": "We use the information we collect to:",
+        "items": [
+          "Process and manage your bookings",
+          "Send booking confirmations and updates",
+          "Respond to your inquiries",
+          "Send promotional communications (with your consent)",
+          "Improve our services"
+        ]
+      },
+      "sharing": {
+        "title": "3. Information Sharing",
+        "content": "We may share your information with third parties only as necessary to provide our services, including hotels, airlines, tour operators, and payment processors. We do not sell your personal information."
+      },
+      "security": {
+        "title": "4. Data Security",
+        "content": "We implement appropriate security measures to protect your personal information. However, no method of transmission over the Internet is 100% secure."
+      },
+      "rights": {
+        "title": "5. Your Rights",
+        "intro": "You have the right to:",
+        "items": [
+          "Access your personal data",
+          "Correct inaccurate data",
+          "Request deletion of your data",
+          "Opt-out of marketing communications"
+        ]
+      },
+      "cookies": {
+        "title": "6. Cookies",
+        "content": "Our website uses cookies to enhance your browsing experience. See our Cookie Policy for more details."
+      },
+      "contact": {
+        "title": "7. Contact Us",
+        "intro": "If you have questions about this Privacy Policy, please contact us at:"
+      }
+    }
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "lastUpdated": "Last updated: November 2024",
+    "phone": "Phone",
+    "sections": {
+      "acceptance": {
+        "title": "1. Acceptance of Terms",
+        "content": "By accessing or using Light Tours Travel Agency services, you agree to be bound by these Terms of Service. If you do not agree, please do not use our services."
+      },
+      "booking": {
+        "title": "2. Booking and Payment",
+        "items": [
+          "A 30% deposit is required to confirm bookings",
+          "Full payment is due before the departure date",
+          "Prices are subject to change until booking is confirmed",
+          "All prices are in EUR unless otherwise stated"
+        ]
+      },
+      "cancellation": {
+        "title": "3. Cancellation Policy",
+        "items": [
+          "14+ days before departure: Full refund minus processing fees",
+          "7-14 days before departure: 50% refund",
+          "Less than 7 days: No refund",
+          "No-shows: No refund"
+        ]
+      },
+      "insurance": {
+        "title": "4. Travel Insurance",
+        "content": "We strongly recommend purchasing comprehensive travel insurance that covers cancellation, medical expenses, and personal belongings. Light Tours is not responsible for losses not covered by insurance."
+      },
+      "liability": {
+        "title": "5. Liability",
+        "content": "Light Tours acts as an agent for transportation, accommodation, and activity providers. We are not liable for injury, damage, loss, or delay caused by these third parties, weather conditions, or circumstances beyond our control."
+      },
+      "yachtTerms": {
+        "title": "6. Yacht Charter Terms",
+        "items": [
+          "Security deposit required (refundable upon inspection)",
+          "Guests must follow captain's safety instructions",
+          "Itinerary may change due to weather conditions",
+          "Maximum capacity must be respected"
+        ]
+      },
+      "carTerms": {
+        "title": "7. Car Rental Terms",
+        "items": [
+          "Minimum age: 21 years with 2+ years driving experience",
+          "Valid driving license and credit card required",
+          "Full-to-full fuel policy",
+          "Damage must be reported immediately"
+        ]
+      },
+      "changes": {
+        "title": "8. Changes to Terms",
+        "content": "We reserve the right to modify these terms at any time. Continued use of our services constitutes acceptance of updated terms."
+      },
+      "contact": {
+        "title": "9. Contact Information"
+      }
+    }
+  },
+  "cookies": {
+    "title": "Cookie Policy",
+    "lastUpdated": "Last updated: November 2024",
+    "phone": "Phone",
+    "sections": {
+      "what": {
+        "title": "What Are Cookies?",
+        "content": "Cookies are small text files stored on your device when you visit our website. They help us provide a better browsing experience and understand how you use our site."
+      },
+      "types": {
+        "title": "Types of Cookies We Use",
+        "essential": {
+          "title": "Essential Cookies",
+          "content": "These cookies are necessary for the website to function properly. They enable basic features like page navigation and access to secure areas."
+        },
+        "analytics": {
+          "title": "Analytics Cookies",
+          "content": "We use Google Analytics to understand how visitors interact with our website. This helps us improve our content and user experience."
+        },
+        "marketing": {
+          "title": "Marketing Cookies",
+          "content": "These cookies track your online activity to help us deliver more relevant advertising. They may be set by our advertising partners."
+        },
+        "functional": {
+          "title": "Functional Cookies",
+          "content": "These cookies remember your preferences (like language) to provide enhanced features."
+        }
+      },
+      "managing": {
+        "title": "Managing Cookies",
+        "intro": "You can control cookies through your browser settings:",
+        "browsers": [
+          "Chrome: Settings > Privacy and Security > Cookies",
+          "Firefox: Options > Privacy & Security > Cookies",
+          "Safari: Preferences > Privacy > Cookies",
+          "Edge: Settings > Privacy > Cookies"
+        ],
+        "note": "Note: Disabling cookies may affect your experience on our website."
+      },
+      "thirdParty": {
+        "title": "Third-Party Cookies",
+        "intro": "Our website may contain cookies from third-party services including:",
+        "services": [
+          "Google Analytics (analytics)",
+          "Google Maps (functionality)",
+          "Facebook Pixel (marketing)",
+          "Tawk.to (live chat)"
+        ]
+      },
+      "updates": {
+        "title": "Updates to This Policy",
+        "content": "We may update this Cookie Policy from time to time. The latest version will always be available on this page."
+      },
+      "contact": {
+        "title": "Contact Us",
+        "intro": "If you have questions about our use of cookies:"
+      }
+    }
+  },
+  "common": {
+    "days": "days",
+    "day": "day",
+    "nights": "nights",
+    "night": "night",
+    "person": "person",
+    "people": "people",
+    "from": "From",
+    "to": "To",
+    "learnMore": "Learn More",
+    "viewDetails": "View Details",
+    "bookNow": "Book Now",
+    "requestQuote": "Request Quote",
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "tryAgain": "Try Again",
+    "backToHome": "Back to Home",
+    "seeAll": "See All",
+    "readMore": "Read More",
+    "share": "Share",
+    "download": "Download",
+    "print": "Print",
+    "email": "Email",
+    "phone": "Phone",
+    "address": "Address",
+    "whatsapp": "WhatsApp",
+    "send": "Send",
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "close": "Close",
+    "yes": "Yes",
+    "no": "No",
+    "or": "or"
+  },
+  "errors": {
+    "404": {
+      "title": "Page Not Found",
+      "description": "The page you're looking for doesn't exist or has been moved.",
+      "backHome": "Back to Home"
+    },
+    "500": {
+      "title": "Server Error",
+      "description": "Something went wrong on our end. Please try again later."
+    }
+  }
+}
