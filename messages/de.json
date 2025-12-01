@@ -227,9 +227,11 @@
     "buttons": {
       "findCruiseRoute": "Route Finden",
       "getAiSuggestion": "KI-Vorschlag Erhalten",
-      "sendWhatsApp": "Angebotsanfrage per WhatsApp Senden",
+      "submit": "Anfrage Senden",
+      "sendWhatsApp": "Per WhatsApp Senden",
       "sending": "Wird gesendet..."
     },
+    "error": "Anfrage konnte nicht gesendet werden. Bitte versuchen Sie es erneut.",
     "whatsapp": {
       "greeting": "Hallo Light Tours!",
       "request": "Ich möchte ein Angebot für Folgendes anfordern",
@@ -360,7 +362,11 @@
       "selectSubject": "Wahlen Sie einen Betreff",
       "message": "Nachricht",
       "messagePlaceholder": "Erzahlen Sie uns von Ihren Reiseplanen...",
-      "submit": "Nachricht per WhatsApp senden",
+      "submit": "Nachricht senden",
+      "submitting": "Wird gesendet...",
+      "whatsapp": "Per WhatsApp senden",
+      "successMessage": "Ihre Nachricht wurde erfolgreich gesendet. Wir melden uns bald bei Ihnen!",
+      "errorMessage": "Nachricht konnte nicht gesendet werden. Bitte versuchen Sie es erneut.",
       "subjects": {
         "yacht": "Yachtcharter-Anfrage",
         "cabin": "Kabinencharter-Buchung",
@@ -511,11 +517,26 @@
       "pickup": "Abholort",
       "pickupDate": "Abholdatum",
       "returnDate": "Ruckgabedatum",
+      "dropoff": "Ruckgabeort",
+      "sameAsPickup": "Wie Abholort",
       "checkAvailability": "Verfugbarkeit prufen",
+      "bookNow": "Jetzt buchen",
+      "requestQuote": "Angebot anfordern",
+      "successMessage": "Ihre Mietanfrage wurde ubermittelt. Wir melden uns in Kurze!",
+      "errorMessage": "Anfrage konnte nicht gesendet werden. Bitte versuchen Sie es erneut.",
       "locations": {
         "airport": "Flughafen Dalaman",
         "office": "Fethiye Buro",
         "hotel": "Hotellieferung"
+      },
+      "form": {
+        "name": "Vollstandiger Name",
+        "email": "E-Mail",
+        "phone": "Telefon",
+        "notes": "Zusatzliche Hinweise",
+        "notesPlaceholder": "Kindersitz, Navigation, etc.",
+        "submit": "Anfrage senden",
+        "submitting": "Wird gesendet..."
       }
     },
     "features": {
@@ -622,8 +643,22 @@
       "from": "Von",
       "to": "Nach",
       "date": "Datum",
+      "time": "Uhrzeit",
       "passengers": "Passagiere",
-      "getQuote": "Angebot"
+      "getQuote": "Angebot",
+      "bookTransfer": "Transfer buchen",
+      "successMessage": "Ihre Transfer-Buchung wurde ubermittelt. Wir bestatigen innerhalb 1 Stunde!",
+      "errorMessage": "Buchung konnte nicht ubermittelt werden. Bitte versuchen Sie es erneut.",
+      "form": {
+        "name": "Vollstandiger Name",
+        "email": "E-Mail",
+        "phone": "Telefon",
+        "flight": "Flugnummer",
+        "notes": "Zusatzliche Hinweise",
+        "notesPlaceholder": "Kindersitze, Rollstuhl, etc.",
+        "submit": "Buchung absenden",
+        "submitting": "Wird gesendet..."
+      }
     },
     "features": {
       "meet": {
@@ -880,7 +915,120 @@
       "title": "Newsletter abonnieren",
       "subtitle": "Erhalten Sie Reisetipps, Sonderangebote und Reisezielinspiration direkt in Ihren Posteingang.",
       "placeholder": "Ihre E-Mail eingeben",
-      "button": "Abonnieren"
+      "button": "Abonnieren",
+      "success": "Vielen Dank fur Ihr Abonnement! Schauen Sie in Ihren Posteingang fur Updates.",
+      "error": "Abonnement fehlgeschlagen. Bitte versuchen Sie es erneut."
+    },
+    "noPosts": "Keine Beitrage in dieser Kategorie gefunden.",
+    "tags": "Tags",
+    "shareArticle": "Artikel teilen",
+    "relatedPosts": "Verwandte Artikel",
+    "conclusion": "Fazit",
+    "fullArticleComingSoon": "Vollstandiger Artikel kommt bald",
+    "fullArticleComingSoonDesc": "Wir arbeiten an diesem detaillierten Leitfaden. Kontaktieren Sie uns direkt fur weitere Informationen!",
+    "contactForInfo": "Kontakt fur Infos",
+    "ctaTitle": "Bereit zu erkunden?",
+    "ctaDesc": "Lassen Sie uns Ihnen helfen, Ihr perfektes Turkei-Abenteuer zu planen.",
+    "ctaButton": "Kostenloses Angebot",
+    "articles": {
+      "best-time-visit-fethiye": {
+        "content": {
+          "intro": "Fethiye, an der atemberaubenden Turkischen Riviera gelegen, bietet in jeder Jahreszeit etwas Magisches. Ob Sie sonnige Strande, kulturelle Erkundung oder Abenteueraktivitaten suchen - der richtige Zeitpunkt kann den Unterschied ausmachen.",
+          "section1": {
+            "heading": "Fruhling (April - Mai)",
+            "paragraphs": [
+              "Der Fruhling ist wohl die beste Zeit, um Fethiye zu besuchen, wenn Sie alles erleben mochten, was die Region zu bieten hat. Das Wetter ist warm, aber nicht heiß, typischerweise zwischen 20-25°C.",
+              "Wildblumen bedecken die Hugel und schaffen perfekte Bedingungen fur Wanderungen auf dem Lykischen Weg. Das Meer wird Ende Mai warm genug zum Schwimmen, und Sie werden weniger Touristen als in den Sommermonaten antreffen.",
+              "Dies ist auch die beste Zeit fur Paragliding vom Babadag, da die Thermik ausgezeichnet und die Sicht außergewohnlich ist."
+            ]
+          },
+          "section2": {
+            "heading": "Sommer (Juni - August)",
+            "paragraphs": [
+              "Der Sommer ist die Hochsaison in Fethiye, mit Temperaturen von 35°C oder hoher. Die Strande sind am besten, und das Meer erreicht perfekte Schwimmtemperaturen.",
+              "Bootstouren, einschließlich der beruhmten 12-Inseln-Kreuzfahrt und Blaue-Lagune-Ausfluge, laufen auf Hochtouren. Das Nachtleben erwacht, mit Bars und Restaurants bis spat in die Nacht.",
+              "Seien Sie jedoch auf hohere Preise, uberfullte Attraktionen und die Notwendigkeit vorbereitet, Unterkunfte und Aktivitaten weit im Voraus zu buchen."
+            ]
+          },
+          "section3": {
+            "heading": "Herbst (September - November)",
+            "paragraphs": [
+              "Der Herbst ist unsere personliche Lieblingszeit fur einen Besuch in Fethiye. Der September bietet noch warme Strandtage (28-30°C), aber mit deutlich weniger Touristen.",
+              "Das Meer bleibt bis weit in den Oktober hinein warm genug zum Schwimmen. Dies ist eine ausgezeichnete Zeit fur Yachtcharter, da das Meer ruhig und die Menschenmengen dunner sind.",
+              "Der Herbst bringt auch die Oliven- und Granatapfelernte, die einzigartige kulinarische Erlebnisse auf lokalen Bauernhofen und in Restaurants bietet."
+            ]
+          },
+          "section4": {
+            "heading": "Winter (Dezember - Marz)",
+            "paragraphs": [
+              "Der Winter in Fethiye ist im Vergleich zu weiten Teilen Europas mild, mit Temperaturen um 12-15°C. Wahrend Schwimmen nicht zu empfehlen ist, ist es perfekt fur kulturelle Erkundungen.",
+              "Besuchen Sie antike Statten wie das Geisterdorf Kayakoy oder die Felsgraber von Telmessos ohne die Sommermassen. Viele Hotels bieten erhebliche Rabatte.",
+              "Beachten Sie, dass einige Bootstouren und Wasseraktivitaten in diesen Monaten nur eingeschrankt verfugbar sein konnen."
+            ]
+          },
+          "conclusion": "Die beste Reisezeit fur Fethiye hangt letztendlich von Ihren Prioritaten ab. Fur die perfekte Balance aus Wetter, Aktivitaten und Preis-Leistung empfehlen wir Ende April bis Anfang Juni oder September bis Mitte Oktober. Wann immer Sie sich entscheiden - die naturliche Schonheit und herzliche Gastfreundschaft der Turkischen Riviera werden Ihre Reise unvergesslich machen."
+        }
+      },
+      "12-islands-tour-guide": {
+        "content": {
+          "intro": "Die 12-Inseln-Bootstour ist Fethiyes bekanntester Tagesausflug und fuhrt Sie durch kristallklares Wasser zu einigen der schonsten Inseln und Buchten an der turkischen Kuste. Hier ist alles, was Sie vor der Abfahrt wissen mussen.",
+          "section1": {
+            "heading": "Was Sie erwartet",
+            "paragraphs": [
+              "Trotz ihres Namens besucht die 12-Inseln-Tour typischerweise 5-6 Stopps, darunter abgelegene Buchten, Schwimmpunkte und historische Statten. Der genaue Verlauf variiert je nach Anbieter und Wetterbedingungen.",
+              "Die Touren starten gegen 10:00 Uhr vom Hafen in Fethiye und kehren gegen 18:00 Uhr zuruck. An jedem Stopp haben Sie Zeit zum Schwimmen, Schnorcheln und Erkunden.",
+              "Die meisten Touren beinhalten Mittagessen an Bord (frischer gegrillter Fisch ist ein Highlight), unbegrenzte Softdrinks und die Nutzung von Schnorchelausrustung."
+            ]
+          },
+          "section2": {
+            "heading": "Nicht verpassen",
+            "paragraphs": [
+              "Flat Island (Yassica) bietet ruhiges, flaches Wasser, perfekt fur Familien. Die charakteristische flache Felsformation der Insel ist ein beliebter Fotopunkt.",
+              "Tersane Island beherbergt die Ruinen einer osmanischen Werft und einen kleinen Strand. Die Kombination aus Geschichte und naturlicher Schonheit macht sie einzigartig.",
+              "Die Aquarium-Bucht macht ihrem Namen alle Ehre mit unglaublich klarem Wasser, in dem Sie Fische unter Ihrem Boot schwimmen sehen konnen."
+            ]
+          },
+          "section3": {
+            "heading": "Tipps fur das beste Erlebnis",
+            "paragraphs": [
+              "Buchen Sie ein kleineres Gulet anstelle eines großen Partyboots, wenn Sie eine entspanntere Atmosphare bevorzugen. Das Erlebnis ist intimer und die Stopps sind weniger uberlaufen.",
+              "Bringen Sie rifffreundliche Sonnencreme, einen Hut und Wasserschuhe fur felsige Strande mit. Die meisten Boote stellen Handtucher zur Verfugung, aber eigene schaden nicht.",
+              "Die besten Monate fur diese Tour sind Mai bis Oktober, wenn das Meer am ruhigsten und das Wasser am warmsten ist."
+            ]
+          },
+          "conclusion": "Die 12-Inseln-Tour bietet die perfekte Einfuhrung in die Schonheit der Turkischen Riviera. Ob Sie in kristallklaren Buchten schnorcheln oder frisch gegrillten Fisch an Deck genießen - es ist ein Tag, den Sie nicht vergessen werden. Kontaktieren Sie uns, um Ihr Abenteuer zu buchen!"
+        }
+      },
+      "blue-cruise-vs-yacht-charter": {
+        "content": {
+          "intro": "Traumen Sie davon, die turkische Kuste zu besegeln, sind aber unsicher, ob Sie eine Kabine auf einer gemeinsamen Blauen Reise buchen oder eine komplette Yacht chartern sollen? Beide bieten unglaubliche Erlebnisse, sprechen aber unterschiedliche Reisestile und Budgets an. Lassen Sie uns die Unterschiede aufschließeln.",
+          "section1": {
+            "heading": "Blaue Reise (Kabinencharter)",
+            "paragraphs": [
+              "Eine Blaue Reise bedeutet, einzelne Kabinen auf einem Gulet zu buchen, das mit anderen Reisenden geteilt wird. Es ist die gunstigere Option, typischerweise von 400-800€ pro Person pro Woche.",
+              "Sie teilen Mahlzeiten, Schwimmstopps und Deckflache mit 8-16 anderen Gasten. Es ist von Natur aus gesellig - perfekt fur Alleinreisende oder Paare, die gerne neue Leute kennenlernen.",
+              "Routen und Zeitplane sind festgelegt und starten zu festen Terminen. Die beliebtesten Routen fuhren zwischen Fethiye und Olympos oder Fethiye und Marmaris."
+            ]
+          },
+          "section2": {
+            "heading": "Privater Yachtcharter",
+            "paragraphs": [
+              "Eine private Yacht zu chartern bedeutet, dass das ganze Boot Ihnen gehort. Sie wahlen die Route, das Tempo und die Aktivitaten. Preise beginnen bei etwa 8.000-10.000€ pro Woche fur ein 4-6 Kabinen Gulet.",
+              "Pro Person ist dies oft teurer, aber fur Familien oder Freundesgruppen steigt der Wert erheblich. Eine Gruppe von 10 auf einem 15.000€ Charter zahlt 1.500€ pro Person.",
+              "Flexibilitat ist der großte Vorteil. Mochten Sie langer in einer schonen Bucht bleiben? Kein Problem. Bevorzugen Sie es, einen uberfullten Hafen auszulassen? Ihr Kapitan wird sich anpassen."
+            ]
+          },
+          "section3": {
+            "heading": "Welche sollten Sie wahlen?",
+            "paragraphs": [
+              "Wahlen Sie eine Blaue Reise, wenn: Sie allein oder als Paar reisen, ein flexibles Budget haben und es genießen, Mitreisende kennenzulernen.",
+              "Wahlen Sie privaten Charter, wenn: Sie mit Familie oder Freunden reisen, Privatsphare und Flexibilitat schatzen oder einen besonderen Anlass feiern.",
+              "Erwagen Sie einen Kompromiss: Einige Anbieter bieten 'Mini-Charter' an, bei denen Sie das ganze Boot fur 4-5 Nachte zu einem reduzierten Preis buchen konnen."
+            ]
+          },
+          "conclusion": "Beide Optionen bieten unvergessliche Moglichkeiten, die turkische Kuste zu erleben. Kontaktieren Sie uns, um zu besprechen, welche Option am besten zu Ihrem Reisestil passt, und wir helfen Ihnen, die perfekte Kreuzfahrt zu finden."
+        }
+      }
     }
   },
   "privacy": {

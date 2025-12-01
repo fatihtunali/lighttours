@@ -1,10 +1,11 @@
 "use client";
 
+import type { ReactNode } from "react";
 import Link from "next/link";
 import { useLocale, useTranslations } from "next-intl";
 import { images } from "@/data/images";
 
-const serviceIcons: Record<string, JSX.Element> = {
+const serviceIcons: Record<string, ReactNode> = {
   "yacht-charter": (
     <svg className="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24">
       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M3 17h18M5 17l2-9h10l2 9M9 8V6a3 3 0 116 0v2M12 3v3" />

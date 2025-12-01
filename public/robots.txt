@@ -1,0 +1,16 @@
+# Robots.txt for Light Tours
+# https://lighttours.com
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://lighttours.com/sitemap.xml
+
+# Disallow admin and API routes
+Disallow: /api/
+Disallow: /_next/
+Disallow: /static/
+
+# Crawl-delay for polite crawling
+Crawl-delay: 1

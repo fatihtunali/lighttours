@@ -4,6 +4,7 @@ import Link from "next/link";
 import { useTranslations } from "next-intl";
 import { companyInfo, stats } from "@/data/company";
 import { images } from "@/data/images";
+import { Breadcrumbs } from "@/components/ui/Breadcrumbs";
 
 const timelineYears = ["1988", "1995", "2002", "2010", "2018", "2024"];
 
@@ -27,6 +28,11 @@ export default function AboutPage() {
 
   return (
     <div className="pt-32">
+      {/* Breadcrumbs */}
+      <div className="container-custom py-2">
+        <Breadcrumbs />
+      </div>
+
       {/* Hero */}
       <section className="relative h-[50vh] min-h-[400px] flex items-center">
         <div

@@ -227,9 +227,11 @@
     "buttons": {
       "findCruiseRoute": "Rota Bul",
       "getAiSuggestion": "AI Önerisi Al",
-      "sendWhatsApp": "WhatsApp ile Teklif İste",
+      "submit": "Talep Gönder",
+      "sendWhatsApp": "WhatsApp ile Gönder",
       "sending": "Gönderiliyor..."
     },
+    "error": "Talep gönderilemedi. Lütfen tekrar deneyin.",
     "whatsapp": {
       "greeting": "Merhaba Light Tours!",
       "request": "Aşağıdaki için teklif almak istiyorum",
@@ -360,7 +362,11 @@
       "selectSubject": "Bir konu secin",
       "message": "Mesaj",
       "messagePlaceholder": "Seyahat planlarinizi bize anlatın...",
-      "submit": "WhatsApp ile Mesaj Gonder",
+      "submit": "Mesaj Gonder",
+      "submitting": "Gonderiliyor...",
+      "whatsapp": "WhatsApp ile Gonder",
+      "successMessage": "Mesajiniz basariyla gonderildi. En kisa surede size donecegiz!",
+      "errorMessage": "Mesaj gonderilemedi. Lutfen tekrar deneyin.",
       "subjects": {
         "yacht": "Yat Kiralama Sorgulama",
         "cabin": "Kabin Kiralama Rezervasyonu",
@@ -608,11 +614,26 @@
       "pickup": "Alis Yeri",
       "pickupDate": "Alis Tarihi",
       "returnDate": "Iade Tarihi",
+      "dropoff": "Teslim Yeri",
+      "sameAsPickup": "Alis yeri ile ayni",
       "checkAvailability": "Musaitligi Kontrol Et",
+      "bookNow": "Simdi Kirala",
+      "requestQuote": "Teklif Isteyin",
+      "successMessage": "Arac kiralama talebiniz alindi. En kisa surede sizinle iletisime gececegiz!",
+      "errorMessage": "Talep gonderilemedi. Lutfen tekrar deneyin.",
       "locations": {
         "airport": "Dalaman Havalimani",
         "office": "Fethiye Ofis",
         "hotel": "Otel Teslimi"
+      },
+      "form": {
+        "name": "Ad Soyad",
+        "email": "E-posta",
+        "phone": "Telefon",
+        "notes": "Ek Notlar",
+        "notesPlaceholder": "Cocuk koltugu, navigasyon sistemi, vb.",
+        "submit": "Talep Gonder",
+        "submitting": "Gonderiliyor..."
       }
     },
     "features": {
@@ -719,8 +740,22 @@
       "from": "Nereden",
       "to": "Nereye",
       "date": "Tarih",
+      "time": "Saat",
       "passengers": "Yolcu",
-      "getQuote": "Teklif Al"
+      "getQuote": "Teklif Al",
+      "bookTransfer": "Transfer Rezervasyonu",
+      "successMessage": "Transfer rezervasyonunuz alindi. 1 saat icinde onaylayacagiz!",
+      "errorMessage": "Rezervasyon gonderilemedi. Lutfen tekrar deneyin.",
+      "form": {
+        "name": "Ad Soyad",
+        "email": "E-posta",
+        "phone": "Telefon",
+        "flight": "Ucus Numarasi",
+        "notes": "Ek Notlar",
+        "notesPlaceholder": "Cocuk koltugu, tekerlekli sandalye, vb.",
+        "submit": "Rezervasyon Yap",
+        "submitting": "Gonderiliyor..."
+      }
     },
     "features": {
       "meet": {
@@ -975,9 +1010,122 @@
     },
     "newsletter": {
       "title": "Bultenimize Abone Olun",
-      "subtitle": "Seyahat ipuclari, özel teklifler ve destinasyon ilhami e-postaniza gelsin.",
+      "subtitle": "Seyahat ipuclari, ozel teklifler ve destinasyon ilhami e-postaniza gelsin.",
       "placeholder": "E-posta adresinizi girin",
-      "button": "Abone Ol"
+      "button": "Abone Ol",
+      "success": "Abone oldugunuz icin tesekkur ederiz! Guncellemeler icin e-postanizi kontrol edin.",
+      "error": "Abone olanamadi. Lutfen tekrar deneyin."
+    },
+    "noPosts": "Bu kategoride yazi bulunamadi.",
+    "tags": "Etiketler",
+    "shareArticle": "Bu yaziyi paylas",
+    "relatedPosts": "Ilgili Yazilar",
+    "conclusion": "Sonuc",
+    "fullArticleComingSoon": "Tam Yazi Cok Yakinda",
+    "fullArticleComingSoonDesc": "Bu detayli rehber uzerinde calisiyoruz. Daha fazla bilgi icin bizimle dogrudan iletisime gecin!",
+    "contactForInfo": "Bilgi Icin Iletisime Gecin",
+    "ctaTitle": "Kesfetmeye Hazir misiniz?",
+    "ctaDesc": "Mukemmel Turkiye maceranizi planlamaniza yardimci olalim.",
+    "ctaButton": "Ucretsiz Teklif Al",
+    "articles": {
+      "best-time-visit-fethiye": {
+        "content": {
+          "intro": "Turkiye'nin muhtesem Turkuaz Kiyisi'nda yer alan Fethiye, her mevsim sihirli bir seyler sunuyor. Gunes dolu sahiller, kulturel kesif veya macera aktiviteleri ariyorsaniz, ziyaretinizi dogru zamanlamak buyuk fark yaratabilir.",
+          "section1": {
+            "heading": "Ilkbahar (Nisan - Mayis)",
+            "paragraphs": [
+              "Ilkbahar, bolgenin sundugu her seyi deneyimlemek isteyen gezginler icin Fethiye'yi ziyaret etmek icin tartismasiz en iyi zaman. Hava sicak ama kavurucu degil, genellikle 20-25°C arasinda.",
+              "Yabani cicekler tepeleri kapliyor ve Likya Yolu'nda yurumus icin mukemmel kosullar yaratyor. Deniz, Mayis sonlarinda yuzmeye yetecek kadar isimiyor ve yaz aylarindan daha az kalabalik bulacaksiniz.",
+              "Bu ayrica Babadag'dan yamac parasutü icin de en iyi zaman, cunku termal mukemmel ve gorunurluk olagan üstü."
+            ]
+          },
+          "section2": {
+            "heading": "Yaz (Haziran - Agustos)",
+            "paragraphs": [
+              "Yaz, Fethiye'de en yogun turist sezonu, sicakliklar 35°C veya daha fazlasina cikiyor. Sahiller en iyi halinde ve deniz mukemmel yuzme sicakliklarinda.",
+              "12 Adalar kruvaziyer ve Mavi Lagün gezileri dahil tekne turlari tam kapasite calisiyor. Gece hayati canlanyor, bar ve restoranlar gece geç saatlere kadar kalabalik.",
+              "Ancak, daha yuksek fiyatlara, daha kalabalik mekanelara ve konaklama ile aktiviteleri onceden rezerve etme ihtiyacina hazir olun."
+            ]
+          },
+          "section3": {
+            "heading": "Sonbahar (Eylul - Kasim)",
+            "paragraphs": [
+              "Sonbahar, Fethiye'yi ziyaret etmek icin kisisel favorimiz. Eylul hala sicak sahil gunleri sunuyor (28-30°C), ama onemli olcude daha az turistle.",
+              "Deniz, Ekim ayina kadar yuzmeye yetecek kadar sicak kaliyor. Bu, yat kiralama icin mukemmel bir zaman, cunku denizler sakin ve kalabaliklar azalmis.",
+              "Sonbahar ayrica zeytin ve nar hasat mevsimini getiriyor, yerel ciftliklerde ve restoranlarda essiz mutfak deneyimleri sunuyor."
+            ]
+          },
+          "section4": {
+            "heading": "Kis (Aralik - Mart)",
+            "paragraphs": [
+              "Fethiye'de kis, Avrupa'nin cogu bölgesine kiyasla ilik, sicakliklar 12-15°C civarinda. Yuzme tavsiye edilmezken, kulturel kesif icin mukemmel.",
+              "Kayakoy Hayalet Koyu veya Telmessos Kaya Mezarlari gibi antik alanları yaz kalabalikları olmadan ziyaret edin. Bircok otel onemli indirimler sunuyor.",
+              "Bu aylarda bazi tekne turlarinin ve su aktivitelerinin sinirli olabilecegini unutmayin."
+            ]
+          },
+          "conclusion": "Fethiye'yi ziyaret etmek icin en iyi zaman, nihayetinde onceliklerinize bagli. Hava, aktiviteler ve deger arasindaki mukemmel denge icin, Nisan sonu - Haziran basi veya Eylul - Ekim ortasini oneriyoruz. Hangi zamani secerseniz secin, Turk Rivierasi'nin dogal guzelligi ve sicak misafirperverligi gezinizi unutulmaz kilacak."
+        }
+      },
+      "12-islands-tour-guide": {
+        "content": {
+          "intro": "12 Adalar tekne turu, Fethiye'nin en ikonik gunluk gezisi olup, sizi kristal berrakliginda sular arasinda Turk kiyisi boyunca en guzel adalar ve koylara goturur. Gitmeden once bilmeniz gereken her sey burada.",
+          "section1": {
+            "heading": "Ne Bekleyebilirsiniz",
+            "paragraphs": [
+              "Adina ragmen, 12 Adalar turu genellikle tenha koylar, yuzme noktalari ve tarihi alanlar dahil 5-6 durak ziyaret eder. Kesin guuzergah, operatore ve hava kosullarina gore degisir.",
+              "Turlar Fethiye limanindan sabah 10:00 civari kalkar ve aksam 6:00'da doner. Her durrakta yuzme, snorkeling ve kesfetme zamani gecireceksiniz.",
+              "Cogu tur, tekne üzerinde ogle yemegi (taze izgara balik onemli bir noktadir), sinirsiz meşrubat ve snorkeling ekipmani kullanimini icerir."
+            ]
+          },
+          "section2": {
+            "heading": "Kaçirilmamasi Gereken Duraklar",
+            "paragraphs": [
+              "Duzada (Yassica Adalari) aileler icin mukemmel sakin, sig sular sunar. Adanin ayirt edici duz kaya formasyonu populer bir foto noktasidir.",
+              "Tersane Adasi, bir Osmanli tersanesinin kalintilarini ve kucuk bir sahili icerir. Tarih ve dogal guzelligin kombinasyonu onu essiz kilar.",
+              "Akvaryum Koyu, teknenizin altinda yüzen balıkları görebileceğiniz inanılmaz berrak suyla adına yakışır."
+            ]
+          },
+          "section3": {
+            "heading": "En Iyi Deneyim Icin Ipuclari",
+            "paragraphs": [
+              "Daha rahat bir atmosfer tercih ederseniz, buyuk parti teknesi yerine daha kucuk bir gulet rezerve edin. Deneyim daha samimi ve duraklar daha az kalabalik.",
+              "Resif dostu gunes kremi, sapka ve kayalik sahiller icin deniz ayakkabisi getirin. Cogu tekne havlu saglar, ama kendininizinkini getirmek zarar vermez.",
+              "Bu tur icin en iyi aylar, denizlerin en sakin ve suyun en sicak oldugu Mayis - Ekim arasi."
+            ]
+          },
+          "conclusion": "12 Adalar turu, Turk Rivierasi'nin guzelligine mukemmel bir giris sunuyor. Kristal berrakliginda koylarda snorkeling yapıyor veya guvertede taze izgara balik keyfini cikariyor olun, unutamayacaginiz bir gun. Maceranizi rezerve etmek icin bizimle iletisime gecin!"
+        }
+      },
+      "blue-cruise-vs-yacht-charter": {
+        "content": {
+          "intro": "Turk kiyilarinda yelken acmayi hayal ediyor ama paylasimli bir mavi yolculukta kabin mi rezerve etmeli yoksa butun bir yat mi kiralayacaginizdan emin degil misiniz? Her ikisi de inanilmaz deneyimler sunuyor, ancak farkli seyahat tarzlarina ve butcelere hitap ediyor. Farkliliklari inceleyelim.",
+          "section1": {
+            "heading": "Mavi Yolculuk (Kabin Kiralama)",
+            "paragraphs": [
+              "Mavi yolculuk, diger gezginlerle paylasilan bir gulette bireysel kabinler rezerve etmek anlamina gelir. Daha uygun fiyatli secenektir, genellikle bir hafta icin kisi basina 400-800€ arasinda degisir.",
+              "Yemekleri, yuzme duraklarini ve guverte alanini 8-16 diger misafirle paylasacaksiniz. Dogasi geregi sosyal - yeni insanlarla tanismaktan hosslanan solo gezginler veya ciftler icin mukemmel.",
+              "Rotalar ve programlar sabittir, belirlenmis tarihlerde kalkar. En populer rotalar Fethiye-Olimpos veya Fethiye-Marmaris arasinda uzanir."
+            ]
+          },
+          "section2": {
+            "heading": "Ozel Yat Kiralama",
+            "paragraphs": [
+              "Özel bir yat kiralamak, tum teknenin sizin olması anlamına gelir. Rotayı, hızı ve aktiviteleri siz seçersiniz. Fiyatlar 4-6 kabinlik bir gulet için haftalık yaklaşık 8.000-10.000€'dan başlar.",
+              "Kişi başına, bu genellikle daha pahalıya çıkıyor, ancak aileler veya arkadaş grupları için değer önemli ölçüde artıyor. 15.000€'luk bir kiralama için 10 kişilik bir grup kişi başına 1.500€ öder.",
+              "Esneklik en büyük avantajdır. Güzel bir koyda daha uzun kalmak mı istiyorsunuz? Sorun değil. Kalabalık bir limani atlamayı mı tercih ediyorsunuz? Kaptanınız ayarlayacaktır."
+            ]
+          },
+          "section3": {
+            "heading": "Hangisini Secmelisiniz?",
+            "paragraphs": [
+              "Solo veya çift olarak seyahat ediyorsanız, esnek bir bütçeniz varsa ve diğer gezginlerle tanışmaktan hoşlanıyorsanız mavi yolculuk seçin.",
+              "Aile veya arkadaşlarla seyahat ediyorsanız, gizlilik ve esnekliğe değer veriyorsanız veya özel bir günü kutluyorsanız özel kiralama seçin.",
+              "Bir uzlaşma düşünün: bazı operatörler, tüm tekneyi 4-5 gece için indirimli bir fiyata kiralayabileceğiniz 'mini chartöer' sunuyor."
+            ]
+          },
+          "conclusion": "Her iki seçenek de Türk kıyılarını deneyimlemenin unutulmaz yollarını sunuyor. Seyahat tarzınıza en uygun seçeneği tartışmak için bizimle iletişime geçin, mükemmel kruvaziyi bulmanıza yardımcı olalım."
+        }
+      }
     }
   },
   "privacy": {

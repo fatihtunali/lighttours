@@ -4,6 +4,7 @@ import Link from "next/link";
 import { useTranslations, useLocale } from "next-intl";
 import { companyInfo } from "@/data/company";
 import { images } from "@/data/images";
+import { Breadcrumbs } from "@/components/ui/Breadcrumbs";
 
 const yachts = [
   { id: "holiday-m", name: "Holiday M", type: "Luxury Gulet", length: "32m", cabins: 6, capacity: 12, crew: 5, price: "From €15,000/week", features: ["Air Conditioning", "Jacuzzi", "Water Sports", "WiFi"], image: images.yachts.holidayM },
@@ -20,6 +21,11 @@ export default function YachtCharterPage() {
 
   return (
     <div className="pt-32">
+      {/* Breadcrumbs */}
+      <div className="container-custom py-2">
+        <Breadcrumbs />
+      </div>
+
       {/* Hero Section */}
       <section className="relative h-[50vh] min-h-[400px] flex items-center">
         <div className="absolute inset-0 bg-cover bg-center" style={{ backgroundImage: `url('${images.services.yachtCharter}')` }} />

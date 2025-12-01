@@ -5,6 +5,7 @@ import { useTranslations, useLocale } from "next-intl";
 import { cabinCharters } from "@/data/tours";
 import { companyInfo } from "@/data/company";
 import { images } from "@/data/images";
+import { Breadcrumbs } from "@/components/ui/Breadcrumbs";
 
 const routeImages: Record<string, string> = {
   "fethiye-kekova-7n": images.hero.main2,
@@ -19,6 +20,11 @@ export default function CabinCharterPage() {
 
   return (
     <div className="pt-32">
+      {/* Breadcrumbs */}
+      <div className="container-custom py-2">
+        <Breadcrumbs />
+      </div>
+
       {/* Hero */}
       <section className="relative h-[50vh] min-h-[400px] flex items-center">
         <div className="absolute inset-0 bg-cover bg-center" style={{ backgroundImage: `url('${images.services.cabinCharter}')` }} />

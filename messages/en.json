@@ -207,9 +207,11 @@
     "buttons": {
       "findCruiseRoute": "Find Cruise Route",
       "getAiSuggestion": "Get AI Suggestion",
-      "sendWhatsApp": "Send Quote Request via WhatsApp",
+      "submit": "Submit Request",
+      "sendWhatsApp": "Send via WhatsApp",
       "sending": "Sending..."
     },
+    "error": "Failed to send request. Please try again.",
     "whatsapp": {
       "greeting": "Hello Light Tours!",
       "request": "I would like to request a quote for the following",
@@ -332,7 +334,11 @@
       "selectSubject": "Select a subject",
       "message": "Message",
       "messagePlaceholder": "Tell us about your travel plans...",
-      "submit": "Send Message via WhatsApp",
+      "submit": "Send Message",
+      "submitting": "Sending...",
+      "whatsapp": "Send via WhatsApp",
+      "successMessage": "Your message has been sent successfully. We will get back to you soon!",
+      "errorMessage": "Failed to send message. Please try again.",
       "subjects": {
         "yacht": "Yacht Charter Inquiry",
         "cabin": "Cabin Charter Booking",
@@ -580,11 +586,26 @@
       "pickup": "Pickup Location",
       "pickupDate": "Pickup Date",
       "returnDate": "Return Date",
+      "dropoff": "Drop-off Location",
+      "sameAsPickup": "Same as pickup",
       "checkAvailability": "Check Availability",
+      "bookNow": "Book Now",
+      "requestQuote": "Request a Quote",
+      "successMessage": "Your car rental request has been submitted. We will contact you shortly!",
+      "errorMessage": "Failed to submit request. Please try again.",
       "locations": {
         "airport": "Dalaman Airport",
         "office": "Fethiye Office",
         "hotel": "Hotel Delivery"
+      },
+      "form": {
+        "name": "Full Name",
+        "email": "Email",
+        "phone": "Phone",
+        "notes": "Additional Notes",
+        "notesPlaceholder": "Child seat, navigation system, etc.",
+        "submit": "Submit Request",
+        "submitting": "Submitting..."
       }
     },
     "features": {
@@ -691,8 +712,22 @@
       "from": "From",
       "to": "To",
       "date": "Date",
+      "time": "Time",
       "passengers": "Passengers",
-      "getQuote": "Get Quote"
+      "getQuote": "Get Quote",
+      "bookTransfer": "Book a Transfer",
+      "successMessage": "Your transfer booking has been submitted. We will confirm within 1 hour!",
+      "errorMessage": "Failed to submit booking. Please try again.",
+      "form": {
+        "name": "Full Name",
+        "email": "Email",
+        "phone": "Phone",
+        "flight": "Flight Number",
+        "notes": "Additional Notes",
+        "notesPlaceholder": "Child seats, wheelchair, etc.",
+        "submit": "Submit Booking",
+        "submitting": "Submitting..."
+      }
     },
     "features": {
       "meet": {
@@ -949,7 +984,120 @@
       "title": "Subscribe to Our Newsletter",
       "subtitle": "Get travel tips, special offers, and destination inspiration delivered to your inbox.",
       "placeholder": "Enter your email",
-      "button": "Subscribe"
+      "button": "Subscribe",
+      "success": "Thank you for subscribing! Check your inbox for updates.",
+      "error": "Failed to subscribe. Please try again."
+    },
+    "noPosts": "No posts found in this category.",
+    "tags": "Tags",
+    "shareArticle": "Share this article",
+    "relatedPosts": "Related Articles",
+    "conclusion": "Conclusion",
+    "fullArticleComingSoon": "Full Article Coming Soon",
+    "fullArticleComingSoonDesc": "We're working on this detailed guide. Contact us directly for more information!",
+    "contactForInfo": "Contact for Info",
+    "ctaTitle": "Ready to Explore?",
+    "ctaDesc": "Let us help you plan your perfect Turkish adventure.",
+    "ctaButton": "Get Free Quote",
+    "articles": {
+      "best-time-visit-fethiye": {
+        "content": {
+          "intro": "Fethiye, nestled along Turkey's stunning Turquoise Coast, offers something magical in every season. Whether you're seeking sun-drenched beaches, cultural exploration, or adventure activities, timing your visit right can make all the difference.",
+          "section1": {
+            "heading": "Spring (April - May)",
+            "paragraphs": [
+              "Spring is arguably the best time to visit Fethiye for travelers who want to experience everything the region has to offer. The weather is warm but not scorching, typically ranging from 20-25°C (68-77°F).",
+              "Wildflowers blanket the hillsides, creating perfect conditions for hiking the Lycian Way. The sea begins to warm up enough for swimming by late May, and you'll find fewer crowds than in summer months.",
+              "This is also prime time for paragliding from Babadag Mountain, as thermals are excellent and visibility is outstanding."
+            ]
+          },
+          "section2": {
+            "heading": "Summer (June - August)",
+            "paragraphs": [
+              "Summer is peak tourist season in Fethiye, with temperatures soaring to 35°C (95°F) or higher. The beaches are at their best, and the sea reaches perfect swimming temperatures.",
+              "Boat tours, including the famous 12 Islands cruise and Blue Lagoon excursions, run at full capacity. Nightlife comes alive, with bars and restaurants buzzing until late.",
+              "However, be prepared for higher prices, more crowded attractions, and the need to book accommodations and activities well in advance."
+            ]
+          },
+          "section3": {
+            "heading": "Autumn (September - November)",
+            "paragraphs": [
+              "Autumn is our personal favorite for visiting Fethiye. September still offers warm beach days (28-30°C), but with significantly fewer tourists.",
+              "The sea remains warm enough for swimming well into October. This is an excellent time for yacht charters, as seas are calm and crowds have thinned.",
+              "Autumn also brings the olive and pomegranate harvest season, offering unique culinary experiences at local farms and restaurants."
+            ]
+          },
+          "section4": {
+            "heading": "Winter (December - March)",
+            "paragraphs": [
+              "Winter in Fethiye is mild compared to much of Europe, with temperatures around 12-15°C (54-59°F). While swimming isn't advisable, it's perfect for cultural exploration.",
+              "Visit ancient sites like Kayakoy Ghost Village or Telmessos Rock Tombs without the summer crowds. Many hotels offer significant discounts.",
+              "Be aware that some boat tours and water activities may have limited availability during these months."
+            ]
+          },
+          "conclusion": "The best time to visit Fethiye ultimately depends on your priorities. For the perfect balance of weather, activities, and value, we recommend late April to early June or September to mid-October. Whatever time you choose, the Turkish Riviera's natural beauty and warm hospitality will make your trip memorable."
+        }
+      },
+      "12-islands-tour-guide": {
+        "content": {
+          "intro": "The 12 Islands boat tour is Fethiye's most iconic day trip, taking you through crystal-clear waters to some of the most beautiful islands and bays along the Turkish coast. Here's everything you need to know before you go.",
+          "section1": {
+            "heading": "What to Expect",
+            "paragraphs": [
+              "Despite its name, the 12 Islands tour typically visits 5-6 stops, including secluded bays, swimming spots, and historic sites. The exact itinerary varies by operator and weather conditions.",
+              "Tours depart from Fethiye harbor around 10:00 AM and return by 6:00 PM. You'll spend time swimming, snorkeling, and exploring each stop.",
+              "Most tours include lunch on board (fresh grilled fish is a highlight), unlimited soft drinks, and use of snorkeling equipment."
+            ]
+          },
+          "section2": {
+            "heading": "Must-See Stops",
+            "paragraphs": [
+              "Flat Island (Yassica) offers calm, shallow waters perfect for families. The island's distinctive flat rock formation is a popular photo spot.",
+              "Tersane Island features the ruins of an Ottoman shipyard and a small beach. The combination of history and natural beauty makes it unique.",
+              "Aquarium Bay lives up to its name with incredibly clear water where you can see fish swimming beneath your boat."
+            ]
+          },
+          "section3": {
+            "heading": "Tips for the Best Experience",
+            "paragraphs": [
+              "Book a smaller gulet rather than a large party boat if you prefer a more relaxed atmosphere. The experience is more intimate and stops are less crowded.",
+              "Bring reef-safe sunscreen, a hat, and water shoes for rocky beaches. Most boats provide towels, but bringing your own doesn't hurt.",
+              "The best months for this tour are May through October when seas are calmest and water is warmest."
+            ]
+          },
+          "conclusion": "The 12 Islands tour offers the perfect introduction to the beauty of the Turkish Riviera. Whether you're snorkeling in crystal-clear bays or enjoying freshly grilled fish on deck, it's a day you won't forget. Contact us to book your adventure!"
+        }
+      },
+      "blue-cruise-vs-yacht-charter": {
+        "content": {
+          "intro": "Dreaming of sailing the Turkish coast but unsure whether to book a cabin on a shared blue cruise or charter an entire yacht? Both offer incredible experiences, but they cater to different travel styles and budgets. Let's break down the differences.",
+          "section1": {
+            "heading": "Blue Cruise (Cabin Charter)",
+            "paragraphs": [
+              "A blue cruise means booking individual cabins on a gulet that's shared with other travelers. It's the more affordable option, typically ranging from €400-800 per person for a week.",
+              "You'll share meals, swimming stops, and deck space with 8-16 other guests. It's inherently social - perfect for solo travelers or couples who enjoy meeting new people.",
+              "Routes and schedules are fixed, departing on set dates. The most popular routes run between Fethiye and Olympos or Fethiye and Marmaris."
+            ]
+          },
+          "section2": {
+            "heading": "Private Yacht Charter",
+            "paragraphs": [
+              "Chartering a private yacht means the entire boat is yours. You choose the route, the pace, and the activities. Prices start around €8,000-10,000 per week for a 4-6 cabin gulet.",
+              "Per person, this often works out more expensive, but for families or groups of friends, the value increases significantly. A group of 10 on a €15,000 charter pays €1,500 per person.",
+              "Flexibility is the biggest advantage. Want to stay longer at a beautiful bay? No problem. Prefer to skip a crowded port? Your captain will adjust."
+            ]
+          },
+          "section3": {
+            "heading": "Which Should You Choose?",
+            "paragraphs": [
+              "Choose a blue cruise if: you're traveling solo or as a couple, you have a flexible budget, and you enjoy meeting fellow travelers.",
+              "Choose private charter if: you're traveling with family or friends, you value privacy and flexibility, or you're celebrating a special occasion.",
+              "Consider a compromise: some operators offer 'mini charters' where you can book the entire boat for 4-5 nights at a reduced rate."
+            ]
+          },
+          "conclusion": "Both options offer unforgettable ways to experience the Turkish coast. Contact us to discuss which option best fits your travel style, and we'll help you find the perfect cruise."
+        }
+      }
     }
   },
   "privacy": {

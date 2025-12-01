@@ -4,6 +4,7 @@ import { useState } from "react";
 import Link from "next/link";
 import { useTranslations, useLocale } from "next-intl";
 import { companyInfo } from "@/data/company";
+import { Breadcrumbs } from "@/components/ui/Breadcrumbs";
 
 export default function FAQPage() {
   const t = useTranslations("faq");
@@ -14,10 +15,15 @@ export default function FAQPage() {
     setOpenItems(prev => ({ ...prev, [key]: !prev[key] }));
   };
 
-  const categories = ["booking", "yachtCharter", "cabinCharter", "dayTours", "transfers"];
+  const categories = ["yachtCharter", "cabinCharter", "dayTours", "transfers"];
 
   return (
     <div className="pt-32">
+      {/* Breadcrumbs */}
+      <div className="container-custom py-2">
+        <Breadcrumbs />
+      </div>
+
       {/* Hero */}
       <section className="relative py-20 bg-gradient-to-br from-[var(--primary)] to-[var(--primary-dark)] text-white">
         <div className="container-custom">
@@ -42,11 +48,9 @@ export default function FAQPage() {
                   {t(`categories.${cat}.title`)}
                 </h2>
                 <div className="space-y-4">
-                  {[0, 1, 2, 3].map((qIndex) => {
+                  {(t.raw(`categories.${cat}.questions`) as Array<{ q: string; a: string }>).map((question, qIndex) => {
                     const key = `${catIndex}-${qIndex}`;
                     const isOpen = openItems[key];
-                    const question = t.raw(`categories.${cat}.questions.${qIndex}`) as { q: string; a: string } | undefined;
-                    if (!question) return null;
                     return (
                       <div key={qIndex} className="border border-slate-200 rounded-xl overflow-hidden">
                         <button

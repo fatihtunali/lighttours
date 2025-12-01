@@ -24,7 +24,15 @@ export default function Header() {
   const locale = useLocale();
 
   return (
-    <header className="fixed top-0 left-0 right-0 z-50 bg-white/95 backdrop-blur-md shadow-sm">
+    <>
+      {/* Skip Navigation Link */}
+      <a
+        href="#main-content"
+        className="sr-only focus:not-sr-only focus:absolute focus:top-2 focus:left-2 focus:z-[100] focus:px-4 focus:py-2 focus:bg-[var(--primary)] focus:text-white focus:rounded-lg focus:outline-none"
+      >
+        Skip to main content
+      </a>
+      <header className="fixed top-0 left-0 right-0 z-50 bg-white/95 backdrop-blur-md shadow-sm">
       {/* Top Bar */}
       <div className="bg-[var(--primary)] text-white text-sm py-2">
         <div className="container-custom flex justify-between items-center">
@@ -147,5 +155,6 @@ export default function Header() {
         )}
       </nav>
     </header>
+    </>
   );
 }
